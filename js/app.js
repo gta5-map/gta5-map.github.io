@@ -89,19 +89,8 @@ $(function() {
 
 	var categories = window.cats = new CategoriesCollection([
 		{
-			name: 'Nuclear Waste',
-			icon: 'collectable/nuclear-waste.png',
-			type: 'Collectables',
-			enabled: true
-		},
-		{
 			name: 'Spaceship Part',
 			icon: 'collectable/spaceship-part.png',
-			type: 'Collectables'
-		},
-		{
-			name: 'Stunt Jump',
-			icon: 'collectable/stunt-jump.png',
 			type: 'Collectables'
 		},
 		{
@@ -110,14 +99,25 @@ $(function() {
 			type: 'Collectables'
 		},
 		{
+			name: 'Stunt Jump',
+			icon: 'collectable/stunt-jump.png',
+			type: 'Collectables'
+		},
+		{
 			name: 'Knife Flight',
 			icon: 'collectable/knife-flight.png',
 			type: 'Collectables'
 		},
 		{
+			name: 'Nuclear Waste',
+			icon: 'collectable/nuclear-waste.png',
+			type: 'Collectables',
+			enabled: true
+		},
+		{
 			name: 'Money',
-			icon: 'collectable/money.png',
-			type: 'Collectables'
+			icon: 'misc/money.png',
+			type: 'Misc'
 		}
 	]);
 
