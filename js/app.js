@@ -110,6 +110,11 @@ $(function() {
 			type: 'Collectables'
 		},
 		{
+			name: 'Knife Flight',
+			icon: 'collectable/knife-flight.png',
+			type: 'Collectables'
+		},
+		{
 			name: 'Money',
 			icon: 'collectable/money.png',
 			type: 'Collectables'

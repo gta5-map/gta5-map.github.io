@@ -3408,5 +3408,229 @@
       "yt_id":"WUV0ZDQjyrU",
       "yt_user":"PowerPyx"
     }
+  },
+  {
+    "id":182,
+    "type":"Knife Flight",
+    "name":"Knife Flight #1",
+    "notes":null,
+    "order":1,
+    "lat":69.80172356231073,
+    "lng":-122.32177734375,
+    "video":{
+      "start":"0:54",
+      "end":"1:10",
+      "yt_id":"_sSwCoecn0I",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":183,
+    "type":"Knife Flight",
+    "name":"Knife Flight #2",
+    "notes":null,
+    "order":2,
+    "lat":69.61885926881004,
+    "lng":-120.9375,
+    "video":{
+      "start":"1:10",
+      "end":"1:33",
+      "yt_id":"_sSwCoecn0I",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":184,
+    "type":"Knife Flight",
+    "name":"Knife Flight #3",
+    "notes":null,
+    "order":3,
+    "lat":67.13582938531948,
+    "lng":-123.2666015625,
+    "video":{
+      "start":"1:33",
+      "end":"2:05",
+      "yt_id":"_sSwCoecn0I",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":185,
+    "type":"Knife Flight",
+    "name":"Knife Flight #4",
+    "notes":null,
+    "order":4,
+    "lat":66.95587684341999,
+    "lng":-125.3759765625,
+    "video":{
+      "start":"1:33",
+      "end":"2:05",
+      "yt_id":"_sSwCoecn0I",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":186,
+    "type":"Knife Flight",
+    "name":"Knife Flight #5",
+    "notes":null,
+    "order":5,
+    "lat":66.85244636494531,
+    "lng":-126.62841796875,
+    "video":{
+      "start":"1:33",
+      "end":"2:05",
+      "yt_id":"_sSwCoecn0I",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":187,
+    "type":"Knife Flight",
+    "name":"Knife Flight #6",
+    "notes":null,
+    "order":6,
+    "lat":66.56574650920783,
+    "lng":-127.28759765625,
+    "video":{
+      "start":"2:05",
+      "end":"2:32",
+      "yt_id":"_sSwCoecn0I",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":188,
+    "type":"Knife Flight",
+    "name":"Knife Flight #7",
+    "notes":null,
+    "order":7,
+    "lat":67.28901521116026,
+    "lng":-126.89208984375,
+    "video":{
+      "start":"2:05",
+      "end":"2:32",
+      "yt_id":"_sSwCoecn0I",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":189,
+    "type":"Knife Flight",
+    "name":"Knife Flight #8",
+    "notes":null,
+    "order":8,
+    "lat":67.50016133802775,
+    "lng":-131.41845703125,
+    "video":{
+      "start":"2:32",
+      "end":"2:54",
+      "yt_id":"_sSwCoecn0I",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":190,
+    "type":"Knife Flight",
+    "name":"Knife Flight #9",
+    "notes":null,
+    "order":9,
+    "lat":68.69650487125402,
+    "lng":-133.74755859375,
+    "video":{
+      "start":"2:54",
+      "end":"3:13",
+      "yt_id":"_sSwCoecn0I",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":191,
+    "type":"Knife Flight",
+    "name":"Knife Flight #10",
+    "notes":null,
+    "order":10,
+    "lat":68.41535220938925,
+    "lng":-135.90087890625,
+    "video":{
+      "start":"3:13",
+      "end":"3:36",
+      "yt_id":"_sSwCoecn0I",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":192,
+    "type":"Knife Flight",
+    "name":"Knife Flight #11",
+    "notes":null,
+    "order":11,
+    "lat":67.60084926188546,
+    "lng":-139.02099609375,
+    "video":{
+      "start":"3:36",
+      "end":"3:55",
+      "yt_id":"_sSwCoecn0I",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":193,
+    "type":"Knife Flight",
+    "name":"Knife Flight #12",
+    "notes":null,
+    "order":12,
+    "lat":67.7427590666639,
+    "lng":-139.59228515625,
+    "video":{
+      "start":"3:36",
+      "end":"3:55",
+      "yt_id":"_sSwCoecn0I",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":194,
+    "type":"Knife Flight",
+    "name":"Knife Flight #13",
+    "notes":null,
+    "order":13,
+    "lat":68.60852084639889,
+    "lng":-142.55859375,
+    "video":{
+      "start":"3:55",
+      "end":"4:11",
+      "yt_id":"_sSwCoecn0I",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":195,
+    "type":"Knife Flight",
+    "name":"Knife Flight #14",
+    "notes":null,
+    "order":14,
+    "lat":70.48089578887483,
+    "lng":-131.748046875,
+    "video":{
+      "start":"4:11",
+      "end":"4:29",
+      "yt_id":"_sSwCoecn0I",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":196,
+    "type":"Knife Flight",
+    "name":"Knife Flight #15",
+    "notes":null,
+    "order":15,
+    "lat":70.57611174177542,
+    "lng":-131.85791015625,
+    "video":{
+      "start":"4:29",
+      "yt_id":"_sSwCoecn0I",
+      "yt_user":"PowerPyx"
+    }
   }
 ]
