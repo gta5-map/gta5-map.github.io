@@ -1,0 +1,3412 @@
+[
+  {
+    "id":1,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #1",
+    "lat":82.28238091544175,
+    "lng":-138.48339843750006,
+    "notes":"Depth: 83",
+    "order":1,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"0:05",
+      "end":"1:12"
+    }
+  },
+  {
+    "id":2,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #2",
+    "lat":82.88118500336384,
+    "lng":-135.6044921875,
+    "notes":"Depth: 96",
+    "order":2,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"1:12",
+      "end":"1:32"
+    }
+  },
+  {
+    "id":3,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #3",
+    "lat":83.55032095652048,
+    "lng":-131.0439453125,
+    "notes":"Depth: 85",
+    "order":3,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"1:32",
+      "end":"1:46"
+    }
+  },
+  {
+    "id":4,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #4",
+    "lat":83.82289147742752,
+    "lng":-113.8896484375,
+    "notes":"Depth: 443",
+    "order":4,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"1:46",
+      "end":"2:08"
+    }
+  },
+  {
+    "id":5,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #5",
+    "lat":83.52763382880046,
+    "lng":-111,
+    "notes":"Depth: 122",
+    "order":5,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"2:08",
+      "end":"2:28"
+    }
+  },
+  {
+    "id":6,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #6",
+    "lat":83.66001670115921,
+    "lng":-108.3076171875,
+    "notes":"Depth: 432",
+    "order":6,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"2:28",
+      "end":"2:58"
+    }
+  },
+  {
+    "id":7,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #7",
+    "lat":83.59661683253272,
+    "lng":-100.1318359375,
+    "notes":"Depth: 462",
+    "order":7,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"2:58",
+      "end":"3:19"
+    }
+  },
+  {
+    "id":8,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #8",
+    "lat":83.60151608090968,
+    "lng":-98.4833984375,
+    "notes":"Depth: 496",
+    "order":8,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"3:19",
+      "end":"3:42"
+    }
+  },
+  {
+    "id":9,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #9",
+    "lat":83.17975329723811,
+    "lng":-94.9453125,
+    "notes":"Depth: 70",
+    "order":9,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"3:42",
+      "end":"4:00"
+    }
+  },
+  {
+    "id":10,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #10",
+    "lat":83.16407924253117,
+    "lng":-93.76953125000006,
+    "notes":"Depth: 97",
+    "order":10,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"4:00",
+      "end":"4:21"
+    }
+  },
+  {
+    "id":11,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #11",
+    "lat":79.2241131319054,
+    "lng":-84.912109375,
+    "notes":"Depth: 113",
+    "order":11,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"4:21",
+      "end":"4:43"
+    }
+  },
+  {
+    "id":12,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #12",
+    "lat":79.10847529994963,
+    "lng":-86.912109375,
+    "notes":"Depth: 32",
+    "order":12,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"4:43",
+      "end":"5:04"
+    }
+  },
+  {
+    "id":13,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #13",
+    "lat":79.04184698515454,
+    "lng":-87.2197265625,
+    "notes":"Depth: 68",
+    "order":13,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"5:04",
+      "end":"5:25"
+    }
+  },
+  {
+    "id":14,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #14",
+    "lat":65.05565821131731,
+    "lng":-97.8681640625,
+    "notes":"Depth: 55",
+    "order":14,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"5:25",
+      "end":"5:43"
+    }
+  },
+  {
+    "id":15,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #15",
+    "lat":63.572866784736476,
+    "lng":-94.62597656250006,
+    "notes":"Depth: 465",
+    "order":15,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"5:43",
+      "end":"6:05"
+    }
+  },
+  {
+    "id":16,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #16",
+    "lat":60,
+    "lng":-100,
+    "notes":"Depth: 351",
+    "order":16,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"6:05",
+      "end":"6:34"
+    }
+  },
+  {
+    "id":17,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #17",
+    "lat":57.640634146394966,
+    "lng":-104.142578125,
+    "notes":"Depth: 153",
+    "order":17,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"6:34",
+      "end":"6:51"
+    }
+  },
+  {
+    "id":18,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #18",
+    "lat":56.63924977575377,
+    "lng":-106.8349609375,
+    "notes":"Depth: 144",
+    "order":18,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"6:51",
+      "end":"7:08"
+    }
+  },
+  {
+    "id":19,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #19",
+    "lat":64.81363241365864,
+    "lng":-142.2197265625,
+    "notes":"Depth: 58",
+    "order":19,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"7:08",
+      "end":"7:26"
+    }
+  },
+  {
+    "id":20,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #20",
+    "lat":65.53319055864205,
+    "lng":-143.560546875,
+    "notes":"Depth: 109",
+    "order":20,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"7:26",
+      "end":"7:45"
+    }
+  },
+  {
+    "id":21,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #21",
+    "lat":65.94632110330856,
+    "lng":-146.736328125,
+    "notes":"Depth: 210",
+    "order":21,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"7:45",
+      "end":"8:05"
+    }
+  },
+  {
+    "id":22,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #22",
+    "lat":68,
+    "lng":-150,
+    "notes":"Depth: 84",
+    "order":22,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"8:05",
+      "end":"8:23"
+    }
+  },
+  {
+    "id":23,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #23",
+    "lat":68.96848025428334,
+    "lng":-154.142578125,
+    "notes":"Depth: 62",
+    "order":23,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"8:23",
+      "end":"8:44"
+    }
+  },
+  {
+    "id":24,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #24",
+    "lat":72.17570334935215,
+    "lng":-157.9560546875,
+    "notes":"Depth: 30",
+    "order":24,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"8:44",
+      "end":"9:02"
+    }
+  },
+  {
+    "id":25,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #25",
+    "lat":75.77498887493843,
+    "lng":-155.703125,
+    "notes":"Depth: 84",
+    "order":25,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"9:02",
+      "end":"9:23"
+    }
+  },
+  {
+    "id":26,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #26",
+    "lat":77.52318410321625,
+    "lng":-153.8349609375,
+    "notes":"Depth: 82",
+    "order":26,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"9:23",
+      "end":"9:41"
+    }
+  },
+  {
+    "id":27,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #27",
+    "lat":78,
+    "lng":-157,
+    "notes":"Depth: 167",
+    "order":27,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"9:41",
+      "end":"9:58"
+    }
+  },
+  {
+    "id":28,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #28",
+    "lat":78.80546215517487,
+    "lng":-156.2529296875,
+    "notes":"Depth: 181",
+    "order":28,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"9:58",
+      "end":"10:20"
+    }
+  },
+  {
+    "id":29,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #29",
+    "lat":79.94644137647673,
+    "lng":-151.505859375,
+    "notes":"Depth: 354",
+    "order":29,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"10:20",
+      "end":"10:44"
+    }
+  },
+  {
+    "id":30,
+    "type":"Nuclear Waste",
+    "title":"Nuclear Waste #30",
+    "lat":80.00762814213425,
+    "lng":-151.154296875,
+    "notes":"Depth: 477",
+    "order":30,
+    "video":{
+      "yt_id":"s_acxxr7ZdM",
+      "yt_user":"PowerPyx",
+      "start":"10:44",
+      "end":"11:30"
+    }
+  },
+  {
+    "id":31,
+    "type":"Money",
+    "title":"$25,000 Briefcase",
+    "lat":68.114053460334,
+    "lng":-151.8291015625,
+    "notes":"This briefcase is exploitable for unlimited money",
+    "order":1,
+    "video":{
+      "yt_id":"mgfxXv7GA38",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":32,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #1 - Mount Chiliad",
+    "notes":"You will come to a farm area with two large barns. One of the barns has a “Zancudo Grain Growers” logo painted on the side of it, and in the back of this barn on the floor is the Spaceship Part.",
+    "order":1,
+    "lat":83.14786998099164,
+    "lng":-120.5859375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"0:05",
+      "end":"0:44"
+    }
+  },
+  {
+    "id":33,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #2 - Mount Chiliad",
+    "notes":"This is located in another farm area. The Spaceship Part is located inside the large shed with a red crate outside the entrance.",
+    "order":2,
+    "lat":82.01527593452178,
+    "lng":-103.18359375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"0:44",
+      "end":"1:04"
+    }
+  },
+  {
+    "id":34,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #3 - Grapeseed",
+    "notes":"There will be a field filled with metal pens in which cows are grazing. In the middle of this area lying on the floor is the Spaceship Part.",
+    "order":3,
+    "lat":80.86585369109434,
+    "lng":-100.986328125,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"1:04",
+      "end":"1:24"
+    }
+  },
+  {
+    "id":35,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #4 - San Chianski Mountain Range",
+    "notes":"At the top of the mountain trail there will be a circular road. By the side of it is a wrecked red boat next to a barn. Inside this barn is the Part.",
+    "order":4,
+    "lat":80.37905406148724,
+    "lng":-87.5390625,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"1:24",
+      "end":"1:51"
+    }
+  },
+  {
+    "id":36,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #5 - San Chianski Mountain Range",
+    "notes":"You will come across a small hill decorated in colourful graffiti by alien cultists. On the top of this hill on a small ledge is a Spaceship Part.",
+    "order":5,
+    "lat":79.24538842837467,
+    "lng":-100.37109375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"1:51",
+      "end":"2:23"
+    }
+  },
+  {
+    "id":37,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #6 - Sandy Shores",
+    "notes":"This Part is located underwater in the small bay on the north of Sandy Shores. Dive down underwater and you will see the Part glowing brightly against the seafloor, so it’s hard to miss.",
+    "order":6,
+    "lat":79.43237075914708,
+    "lng":-110.654296875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"2:23",
+      "end":"2:45"
+    }
+  },
+  {
+    "id":38,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #7 - Grand Senora Desert",
+    "notes":"Next to the off-road trail is a rock formation. Up the small hill underneath the face of the rock is this Part.",
+    "order":7,
+    "lat":78.63866586376248,
+    "lng":-105.64453125,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"2:45",
+      "end":"3:08"
+    }
+  },
+  {
+    "id":39,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #8 - Grand Senora Desert",
+    "notes":"By the side of the road will be 5 huge satellite dishes. If you’re looking at them from the main road, the right-hand most dish will have the Part. Climb up the stairs on the dish to get it.",
+    "order":8,
+    "lat":77.49460719687322,
+    "lng":-105.556640625,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"3:08",
+      "end":"3:39"
+    }
+  },
+  {
+    "id":40,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #9 - Grand Senora Desert",
+    "notes":"You should see a large boat with the initials “LS 4145 RS” on the side of it amongst a few rusty trailers. The Part is located next to the boat.",
+    "order":9,
+    "lat":77.39909464486604,
+    "lng":-116.19140625,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"3:39",
+      "end":"4:00"
+    }
+  },
+  {
+    "id":41,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #10 - Grand Senora Desert",
+    "notes":"By the side of the road you will see a derelict house with boarded up windows. Behind the house where the back porch was is the Spaceship Part.",
+    "order":10,
+    "lat":76.00547035565367,
+    "lng":-122.783203125,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"4:00",
+      "end":"4:24"
+    }
+  },
+  {
+    "id":42,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #11 - Grand Senora Desert",
+    "notes":"This Part is located down in the small rocky valley beside the road. It will be amongst some rocks.",
+    "order":11,
+    "lat":75.03901279805076,
+    "lng":-116.630859375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"4:24",
+      "end":"4:51"
+    }
+  },
+  {
+    "id":43,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #12 - Grand Senora Desert",
+    "notes":"On the top of the hill is a small house with a green roof and a US flag outside the front. Behind the house is a white banner strung between two posts with “Welcome” written on it. The Part is located under this banner.",
+    "order":12,
+    "lat":75.90950400691688,
+    "lng":-110.830078125,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"4:51",
+      "end":"5:09"
+    }
+  },
+  {
+    "id":44,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #13 - Ron Alternates Wind Farm",
+    "notes":"This Part is located inside a cavern, so you will need to either swim or use a boat/jetski to get inside. Once inside, dive down underwater and you will easily see the Part glowing.",
+    "order":13,
+    "lat":75.83441802215226,
+    "lng":-94.482421875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"5:09",
+      "end":"5:35"
+    }
+  },
+  {
+    "id":45,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #14 - Tatavium Mountains",
+    "notes":"To the right of the large cavern entrance, there is a tiny beach. On this beach is the Spaceship Part.",
+    "order":14,
+    "lat":72.16835148220001,
+    "lng":-96.416015625,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"5:35",
+      "end":"6:01"
+    }
+  },
+  {
+    "id":46,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #15 - Tatavium Mountains",
+    "notes":"You will see five pipes running down into the water. In the left-hand pipe is the Spaceship Part.",
+    "order":15,
+    "lat":71.42717893107371,
+    "lng":-105.46875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"6:01",
+      "end":"6:23"
+    }
+  },
+  {
+    "id":47,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #16 - Davis",
+    "notes":"Down by the rocks is a small wooden jetty with two red safety rings housed on it. Dive underneath this jetty and the Spaceship Part will be on the seafloor.",
+    "order":16,
+    "lat":69.79413569863112,
+    "lng":-108.28125,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"6:23",
+      "end":"6:48"
+    }
+  },
+  {
+    "id":48,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #17 - Murreta Heights",
+    "notes":"By the side of the freeway is an area where water comes out and flows down under the freeway. You should see a brown metal walkway with three concrete pillars jutting out from underneath it. On the middle of these pillars is the Spaceship Part.",
+    "order":17,
+    "lat":65.56754970214311,
+    "lng":-112.6318359375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"6:48",
+      "end":"7:16"
+    }
+  },
+  {
+    "id":49,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #18 - El Burro Heights",
+    "notes":"In the construction area you will find two freight containers side by side. The green one has an opening and inside it is the Spaceship Part.",
+    "order":18,
+    "lat":63.39152174400882,
+    "lng":-107.7099609375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"7:16",
+      "end":"7:40"
+    }
+  },
+  {
+    "id":50,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #19 - Pacific Ocean",
+    "notes":"This one is located on a small island out to sea. Just swim the small distance to the island and then climb onto the rocks. The Part will be amongst the rocks.",
+    "order":19,
+    "lat":57.79794388498275,
+    "lng":-109.16015625,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"7:40",
+      "end":"8:11"
+    }
+  },
+  {
+    "id":51,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #20 - El Burro Heights",
+    "notes":"In front of the freeway-supporting wall with the “VAGOS” graffiti on it is a sewer pipe that pumps water out to sea. Right next to the pipe opening is the Spaceship Part.",
+    "order":20,
+    "lat":58.83649009392136,
+    "lng":-113.5986328125,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"8:11",
+      "end":"8:33"
+    }
+  },
+  {
+    "id":52,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #21 - Elysian Island",
+    "notes":"Underwater here will be the ruins of a metal structure. In amongst it is this Spaceship Part.",
+    "order":21,
+    "lat":55.52863052257191,
+    "lng":-118.4765625,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"8:33",
+      "end":"8:56"
+    }
+  },
+  {
+    "id":53,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #22 - Elysian Island",
+    "notes":"In between the two huge domes is a set of stairs. Take the first flight up and at the fork take the left staircase. Keep following the stairs and you’ll eventually come to a building with a ladder on top of the dome. Climb the ladder and drop down onto the pipe. Run along the pipe, and halfway between the two domes on the pipe will be the Spaceship Part.",
+    "order":22,
+    "lat":58.03137242177637,
+    "lng":-121.2890625,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"8:56",
+      "end":"9:57"
+    }
+  },
+  {
+    "id":54,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #23 - Rancho / Dutch London St",
+    "notes":"In a fenced area you will see four decorated alien-like sculptures that look like futuristic towers. Go inside the entrance and the ledge around the bottom of the right-hand tower will have the Spaceship Part on it.",
+    "order":23,
+    "lat":61.18562468142283,
+    "lng":-121.11328125,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"9:57",
+      "end":"10:20"
+    }
+  },
+  {
+    "id":55,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #24 - Los Santos International Airport",
+    "notes":"Right in the southern-most section of the airport, just inside the fence. This Part is located next to a dumpster and a stack of red, white, green and blue crates.",
+    "order":24,
+    "lat":54.059387886623576,
+    "lng":-136.40625,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"10:20",
+      "end":"10:38"
+    }
+  },
+  {
+    "id":56,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #25 - Davis / Innocence Blvd",
+    "notes":"This Part is located on the roof of Central Los Santos Medical Centre. Climb up the stairs to the top of the first roof, then up the ladder to get onto the highest roof. The Spaceship Part will be next to the helicopter on the right-hand side.",
+    "order":25,
+    "lat":64.18724867664997,
+    "lng":-121.8603515625,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"10:38",
+      "end":"11:23"
+    }
+  },
+  {
+    "id":57,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #26 - Strawberry / Elgin Ave",
+    "notes":"Underneath the freeway is a campsite where the homeless are dwelling. The Spaceship Part will be in front of a couch with a red and pink sleeping bag on it.",
+    "order":26,
+    "lat":65.16457888401897,
+    "lng":-124.2333984375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"11:23",
+      "end":"11:49"
+    }
+  },
+  {
+    "id":58,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #27 - Textile City",
+    "notes":"In this alleyway there will be numerous shops and market stalls. Find the “Bean Machine” coffee shop, and just to the right of it will be a small alcove where this Part can be found.",
+    "order":27,
+    "lat":67.03316279015063,
+    "lng":-120.05859375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"11:49",
+      "end":"12:13"
+    }
+  },
+  {
+    "id":59,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #28 - Pillbox Hill",
+    "notes":"[Helicopter Required] You will need to fly up to the top of the “Penris” building for this one. Land on the roof and grab the clearly-visible Spaceship Part.",
+    "order":28,
+    "lat":67.62595438857817,
+    "lng":-122.4755859375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"12:13",
+      "end":"12:51"
+    }
+  },
+  {
+    "id":60,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #29 - Pillbox Hill",
+    "notes":"This Part is located in a tunnel, the entrance of which can be found in Textile City. Drive into the tunnel and take a right at the fork. Keep driving along the train tracks until you are met with two enclosed tunnels. Take the left tunnel and drive through it until you are met with another choice of two tunnels. Take the right one this time and drive through it a short way until you come out into a room. Go up the ramp to the right to find some constructions workers stood around. The Spaceship Part is located behind the red barrier next to a table with a blueprint on it.",
+    "order":29,
+    "lat":67.69277095059344,
+    "lng":-123.0908203125,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"12:51",
+      "end":"14:04"
+    }
+  },
+  {
+    "id":61,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #30 - Vespucci Canals",
+    "notes":"Next to the road you will see a huge “Destroy The Ring” billboard. Climb up the ladder that goes up the billboard’s supporting pole. Go up the short ramp and then climb the second ladder. The Spaceship Part will be on the platform at the top of the billboard.",
+    "order":30,
+    "lat":65.33017791526855,
+    "lng":-133.41796875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"14:04",
+      "end":"14:44"
+    }
+  },
+  {
+    "id":62,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #31 - Little Seoul / Del Perro Fwy",
+    "notes":"This is located inside the Vinewood studios. You will have to drive or run through the barrier at the entrance. Take the first left and then right in front of you will be an open doorway and some stairs. Go up the stairs, take a right and then a right again up another set of stairs. Climb over the wall in front of you and the Spaceship Part will be on the balcony here.",
+    "order":31,
+    "lat":67.80924450600008,
+    "lng":-136.0546875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"14:44",
+      "end":"15:21"
+    }
+  },
+  {
+    "id":63,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #32 - Burton",
+    "notes":"The Spaceship Part will be right in the middle of the small grassy area in the middle of the circular road.",
+    "order":32,
+    "lat":68.83180177092166,
+    "lng":-126.73828125,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"15:21",
+      "end":"15:43"
+    }
+  },
+  {
+    "id":64,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #33 - Burton",
+    "notes":"[Helicopter Required] This Part is located in the empty swimming pool on the roof of the hotel. Fly up there and jump down into the pool to grab it.",
+    "order":33,
+    "lat":69.14692017504962,
+    "lng":-128.5400390625,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"15:43",
+      "end":"16:20"
+    }
+  },
+  {
+    "id":65,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #34 - Rockford Hills",
+    "notes":"This Part is located on a tiny island in the south-western lake of the golf course. Jump into the water and swim to the island for it.",
+    "order":34,
+    "lat":69.4421276134176,
+    "lng":-136.0107421875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"16:20",
+      "end":"16:46"
+    }
+  },
+  {
+    "id":66,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #35 - Vinewood Hills",
+    "notes":"By the side of the lake is a small stone building. If you dive into the lake just to the right of the building, you should see the Spaceship Part behind you on the seafloor next to the side of the stone wall.",
+    "order":35,
+    "lat":71.73266202440855,
+    "lng":-124.365234375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"16:46",
+      "end":"17:05"
+    }
+  },
+  {
+    "id":67,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #36 - Vinewood Hills",
+    "notes":"[Helicopter Required] You will see a concrete jetty sticking out from the side of the road with a circular building at the end of it. Unfortunately, the building is too high to climb up so you will need to delicately land a helicopter on top of it to grab the Spaceship Part.",
+    "order":36,
+    "lat":72.23551372557404,
+    "lng":-123.57421875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"17:05",
+      "end":"17:36"
+    }
+  },
+  {
+    "id":68,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #37 - Vinewood Hills",
+    "notes":"[Helicopter Required] This is another one which requires a helicopter. You will need to land your helicopter on the roof of the Galileo Observatory, and the Spaceship Part will be located next to the dome on the left-hand side of the roof.",
+    "order":37,
+    "lat":73.04823634299835,
+    "lng":-128.7158203125,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"17:36",
+      "end":"18:09"
+    }
+  },
+  {
+    "id":69,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #38 - Richman Glen",
+    "notes":"In front of the house is a large tree next to a small circular fountain. The Spaceship Part is at the base of the tree.",
+    "order":38,
+    "lat":72.39570570653261,
+    "lng":-139.3505859375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"18:09",
+      "end":"18:34"
+    }
+  },
+  {
+    "id":70,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #39 - Tongva Hills",
+    "notes":"On your map you should see a stream going off from the side of the road. Follow this stream about halfway and you should see an opening in the rock face in front of you. Just inside the entrance is this Spaceship Part.",
+    "order":39,
+    "lat":73.77577986189993,
+    "lng":-143.173828125,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"18:34",
+      "end":"19:07"
+    }
+  },
+  {
+    "id":71,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #40 - Banham Canyon",
+    "notes":"Behind the house at the end of the short road is a swimming pool. Right next to this is small white concrete square on the ground that has a telescope erected on it at night. On the ground next to the telescope is this Part.",
+    "order":40,
+    "lat":73.9710776393399,
+    "lng":-151.611328125,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"19:07",
+      "end":"19:30"
+    }
+  },
+  {
+    "id":72,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #41 - Tongva Hills",
+    "notes":"On the side of a hill is a farm area with lots of hedges. The Spaceship Part is located halfway up the hill in between the rows of hedges. You won’t be able climb over them so you’ll have to find a gap in the side and run along the row.\t",
+    "order":41,
+    "lat":75.29773546875684,
+    "lng":-143.4375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"19:30",
+      "end":"20:04"
+    }
+  },
+  {
+    "id":73,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #42 - Tongva Hills",
+    "notes":"Underneath the bridge you will see a waterfall. Do not dive in off the bridge as you will die. Work your way down and in the small pool at the bottom of the waterfall, dive down and find the Spaceship Part underwater.",
+    "order":42,
+    "lat":75.71563324165896,
+    "lng":-138.515625,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"20:04",
+      "end":"20:34"
+    }
+  },
+  {
+    "id":74,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #43 - Zancudo River",
+    "notes":"Underneath the wooden bridge over the river, this one is located between the central support pillar and the small support at the end of the bridge.",
+    "order":43,
+    "lat":77.60828217742636,
+    "lng":-128.671875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"20:34",
+      "end":"20:57"
+    }
+  },
+  {
+    "id":75,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #44 - Zancudo River",
+    "notes":"This one is located in a small alcove in the rocks on the river bank. The alcove will be on the left if you are looking at the bridge ahead of you in the distance.",
+    "order":44,
+    "lat":78.260332194717,
+    "lng":-123.662109375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"20:57",
+      "end":"21:19"
+    }
+  },
+  {
+    "id":76,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #45 - Mount Josiah",
+    "notes":"[Helicopter Required] This Part is quite tricky and requires a helicopter. Fly up to the side of Mount Josiah where you can see levels of rock, almost like giant steps. You should see the Part glowing on one of the ledges, so land your helicopter on the one above it and jump down.",
+    "order":45,
+    "lat":78.9377084355064,
+    "lng":-130.5615234375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"21:19",
+      "end":"22:06"
+    }
+  },
+  {
+    "id":77,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #46 - Pacific Ocean",
+    "notes":"[Helicopter Required] This is by far the most difficult Spaceship Part to get. It will require extremely precise control with a helicopter, or pinpoint landing with a parachute. If you are using a helicopter like in the video, you will need to land perfectly in between the concrete support beam and the underside of the bridge. The Spaceship Part will be on a ledge.\t",
+    "order":46,
+    "lat":80.66130757742845,
+    "lng":-142.7783203125,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"22:06",
+      "end":"22:46"
+    }
+  },
+  {
+    "id":78,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #47 - Cassoy Creek",
+    "notes":"Directly underneath the bridge is a small outcropping of rock right next to a waterfall. The Spaceship Part is on this outcropping.",
+    "order":47,
+    "lat":80.32750594400994,
+    "lng":-129.6826171875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"22:46",
+      "end":"23:15"
+    }
+  },
+  {
+    "id":79,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #48 - Paleto Cove",
+    "notes":"This Part is easy to find, it’s in plain sight at the top of the small hill that extends out from the beach.",
+    "order":48,
+    "lat":81.80502352078734,
+    "lng":-138.515625,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"23:15",
+      "end":"23:37"
+    }
+  },
+  {
+    "id":80,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #49 - Paleto Forest",
+    "notes":"You will see the entrance to a small concrete tunnel, with a fallen tree trunk across the entrance. Just inside the tunnel is this Part.",
+    "order":49,
+    "lat":82.148456834319,
+    "lng":-129.287109375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"23:37",
+      "end":"24:04"
+    }
+  },
+  {
+    "id":81,
+    "type":"Spaceship Part",
+    "title":"Spaceship Part #50 - Paleto Forest",
+    "notes":"On this block you should see an ugly grey tower with a metal staircase around it. Climb up two flights of stairs, and jump inside the window. The Spaceship Part is on the floor inside this room.",
+    "order":50,
+    "lat":82.68188478330565,
+    "lng":-128.49609375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913541"
+      }
+    ],
+    "video":{
+      "yt_id":"MDCAHknkqk0",
+      "yt_user":"PowerPyx",
+      "start":"24:04"
+    }
+  },
+  {
+    "id":82,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #1 - Burton",
+    "notes":"",
+    "order":1,
+    "lat":68.86351700272681,
+    "lng":-126.826171875,
+    "video":{
+      "start":"0:05",
+      "end":"0:35",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":83,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #2 - Downtown",
+    "notes":"",
+    "order":2,
+    "lat":67.7094454829218,
+    "lng":-125.1123046875,
+    "video":{
+      "start":"0:35",
+      "end":"1:05",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":84,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #3 - Textile City",
+    "notes":"",
+    "order":3,
+    "lat":67.42436394630637,
+    "lng":-121.552734375,
+    "video":{
+      "start":"1:05",
+      "end":"1:30",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":85,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #4 - La Mesa",
+    "notes":"",
+    "order":4,
+    "lat":67.52537347875263,
+    "lng":-118.916015625,
+    "video":{
+      "start":"1:30",
+      "end":"2:12",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":86,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #5 - Pillbox Hill",
+    "notes":"",
+    "order":5,
+    "lat":66.87834504307973,
+    "lng":-124.2333984375,
+    "video":{
+      "start":"2:12",
+      "end":"2:37",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":87,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #6 - Pillbox Hill/Elgin Ave",
+    "notes":"",
+    "order":6,
+    "lat":65.85675647909318,
+    "lng":-124.7607421875,
+    "video":{
+      "start":"2:37",
+      "end":"3:06",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":88,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #7 - Strawberry",
+    "notes":"",
+    "order":7,
+    "lat":65.2750935499542,
+    "lng":-120.9814453125,
+    "video":{
+      "start":"3:06",
+      "end":"3:35",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":89,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #8 - Strawberry",
+    "notes":"",
+    "order":8,
+    "lat":64.41592147626879,
+    "lng":-119.794921875,
+    "video":{
+      "start":"3:35",
+      "end":"4:07",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":90,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #9 - Rancho/Innocence Blvd",
+    "notes":"",
+    "order":9,
+    "lat":63.3324127919358,
+    "lng":-120.5859375,
+    "video":{
+      "start":"4:07",
+      "end":"4:37",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":91,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #10 - El Burro Heights",
+    "notes":"",
+    "order":10,
+    "lat":60.54377524118842,
+    "lng":-110.21484375,
+    "video":{
+      "start":"4:37",
+      "end":"5:09",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":92,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #11 - Terminal/Buccaneer Way",
+    "notes":"",
+    "order":11,
+    "lat":57.088515327886505,
+    "lng":-116.6748046875,
+    "video":{
+      "start":"5:09",
+      "end":"5:31",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":93,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #12 - Elysian Island",
+    "notes":"",
+    "order":12,
+    "lat":56.68037378950136,
+    "lng":-118.2568359375,
+    "video":{
+      "start":"5:31",
+      "end":"6:07",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":94,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #13 - Elysian Island",
+    "notes":"",
+    "order":13,
+    "lat":59.24341475839977,
+    "lng":-120.9814453125,
+    "video":{
+      "start":"6:07",
+      "end":"6:39",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":95,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #14 - Elysian Island/Plaice PL",
+    "notes":"",
+    "order":14,
+    "lat":58.768200159239576,
+    "lng":-121.0693359375,
+    "video":{
+      "start":"6:39",
+      "end":"7:15",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":96,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #15 - Elysian Island",
+    "notes":"",
+    "order":15,
+    "lat":57.75107598132104,
+    "lng":-122.7392578125,
+    "video":{
+      "start":"7:15",
+      "end":"7:50",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":97,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #16 - Elysian Island",
+    "notes":"",
+    "order":16,
+    "lat":57.72761921621492,
+    "lng":-123.3544921875,
+    "video":{
+      "start":"7:50",
+      "end":"8:33",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":98,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #17 - Elysian Island/Elysian Fields Fwy",
+    "notes":"",
+    "order":17,
+    "lat":56.8249328650072,
+    "lng":-122.87109375,
+    "video":{
+      "start":"8:33",
+      "end":"9:12",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":99,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #18 - Elysian Island",
+    "notes":"",
+    "order":18,
+    "lat":55.50374985927514,
+    "lng":-123.2666015625,
+    "video":{
+      "start":"9:12",
+      "end":"9:51",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":100,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #19 - Elysian Island/Voodoo Place",
+    "notes":"",
+    "order":19,
+    "lat":56.48676175249086,
+    "lng":-122.5634765625,
+    "video":{
+      "start":"9:51",
+      "end":"10:28",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":101,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #20 - Elysian Island/Voodoo Place",
+    "notes":"",
+    "order":20,
+    "lat":56.96893619436121,
+    "lng":-121.6845703125,
+    "video":{
+      "start":"10:28",
+      "end":"11:04",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":102,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #21 - Banning",
+    "notes":"",
+    "order":21,
+    "lat":60.80206374467983,
+    "lng":-123.5302734375,
+    "video":{
+      "start":"11:04",
+      "end":"11:38",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":103,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #22 - Los Santos International Airport/New Empire Way",
+    "notes":"",
+    "order":22,
+    "lat":59.17592824927138,
+    "lng":-132.5390625,
+    "video":{
+      "start":"11:38",
+      "end":"12:20",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":104,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #23 - Los Santos International Airport/New Empire Way",
+    "notes":"",
+    "order":23,
+    "lat":58.21702494960191,
+    "lng":-133.59375,
+    "video":{
+      "start":"12:20",
+      "end":"13:05",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":105,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #24 - Los Santos International Airport/New Empire Way",
+    "notes":"",
+    "order":24,
+    "lat":59.44507509904716,
+    "lng":-134.296875,
+    "video":{
+      "start":"13:05",
+      "end":"13:36",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":106,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #25 - La Puerta",
+    "notes":"",
+    "order":25,
+    "lat":63.66576033778838,
+    "lng":-128.6279296875,
+    "video":{
+      "start":"13:36",
+      "end":"14:04",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":107,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #26 - La Puerta",
+    "notes":"",
+    "order":26,
+    "lat":63.84066844285508,
+    "lng":-130.5615234375,
+    "video":{
+      "start":"14:04",
+      "end":"14:34",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":108,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #27 - La Puerta/Dutch London St",
+    "notes":"",
+    "order":27,
+    "lat":63.89873081524394,
+    "lng":-129.6826171875,
+    "video":{
+      "start":"14:34",
+      "end":"14:54",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":109,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #28 - Little Seoul",
+    "notes":"",
+    "order":28,
+    "lat":64.37794095121995,
+    "lng":-128.8916015625,
+    "video":{
+      "start":"14:54",
+      "end":"15:16",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":110,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #29 - Little Seoul/La Puerta Fwy",
+    "notes":"",
+    "order":29,
+    "lat":65.31182925383723,
+    "lng":-128.759765625,
+    "video":{
+      "start":"15:16",
+      "end":"15:41",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":111,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #30 - Little Seoul/Adam's Apple Blvd",
+    "notes":"",
+    "order":30,
+    "lat":65.67638148211446,
+    "lng":-130.9130859375,
+    "video":{
+      "start":"15:41",
+      "end":"16:09",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":112,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #31 - Pillbox Hill",
+    "notes":"",
+    "order":31,
+    "lat":66.93006025862448,
+    "lng":-127.3974609375,
+    "video":{
+      "start":"16:09",
+      "end":"16:29",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":113,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #32 - Little Seoul",
+    "notes":"",
+    "order":32,
+    "lat":67.90861918215302,
+    "lng":-128.9794921875,
+    "video":{
+      "start":"16:29",
+      "end":"16:48",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":114,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #33 - Little Seoul/Vespucci Blvd",
+    "notes":"",
+    "order":33,
+    "lat":66.5482634621744,
+    "lng":-133.0224609375,
+    "video":{
+      "start":"16:48",
+      "end":"17:07",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":115,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #34 - Del Perro/Equality Way",
+    "notes":"",
+    "order":34,
+    "lat":66.93006025862448,
+    "lng":-140.185546875,
+    "video":{
+      "start":"17:07",
+      "end":"17:30",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":116,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #35 - Pacific Bluffs",
+    "notes":"",
+    "order":35,
+    "lat":68.6245436634471,
+    "lng":-144.6240234375,
+    "video":{
+      "start":"17:30",
+      "end":"17:53",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":117,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #36 - Burton",
+    "notes":"",
+    "order":36,
+    "lat":69.42669052967202,
+    "lng":-130.2099609375,
+    "video":{
+      "start":"17:53",
+      "end":"18:10",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":118,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #37 - Rockford Hills",
+    "notes":"",
+    "order":37,
+    "lat":69.28725695167886,
+    "lng":-132.2314453125,
+    "video":{
+      "start":"18:10",
+      "end":"18:33",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":119,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #38 - GWC Golfing Society",
+    "notes":"",
+    "order":38,
+    "lat":69.67235784229395,
+    "lng":-135.1318359375,
+    "video":{
+      "start":"18:33",
+      "end":"19:00",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":120,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #39 - Richman",
+    "notes":"",
+    "order":39,
+    "lat":70.95969716686398,
+    "lng":-138.6474609375,
+    "video":{
+      "start":"19:00",
+      "end":"19:30",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":121,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #40 - Vinewood Hills",
+    "notes":"",
+    "order":40,
+    "lat":74.76429887097669,
+    "lng":-124.541015625,
+    "video":{
+      "start":"19:30",
+      "end":"19:59",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":122,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #41 - Raton Canyon",
+    "notes":"",
+    "order":41,
+    "lat":79.85883334713468,
+    "lng":-133.7255859375,
+    "video":{
+      "start":"19:59",
+      "end":"20:28",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":123,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #42 - Alamo Sea",
+    "notes":"",
+    "order":42,
+    "lat":80.09591386315367,
+    "lng":-119.6630859375,
+    "video":{
+      "start":"20:28",
+      "end":"20:49",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":124,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #43 - Paleto Bay/Procopio Promenade",
+    "notes":"",
+    "order":43,
+    "lat":83.25709720189782,
+    "lng":-126.2109375,
+    "video":{
+      "start":"20:49",
+      "end":"21:13",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":125,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #44 - Paleto Bay",
+    "notes":"",
+    "order":44,
+    "lat":83.15311098437887,
+    "lng":-124.4970703125,
+    "video":{
+      "start":"21:13",
+      "end":"21:34",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":126,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #45 - Mount Gordo",
+    "notes":"",
+    "order":45,
+    "lat":81.45973726383451,
+    "lng":-92.109375,
+    "video":{
+      "start":"21:34",
+      "end":"22:01",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":127,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #46 - Sandy Shores",
+    "notes":"",
+    "order":46,
+    "lat":78.87004849291571,
+    "lng":-108.80859375,
+    "video":{
+      "start":"22:01",
+      "end":"22:36",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":128,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #47 - Grand Senora Desert",
+    "notes":"",
+    "order":47,
+    "lat":77.97990023317645,
+    "lng":-108.2373046875,
+    "video":{
+      "start":"22:36",
+      "end":"22:58",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":129,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #48 - Grand Senora Desert",
+    "notes":"",
+    "order":48,
+    "lat":76.13242963554379,
+    "lng":-107.9736328125,
+    "video":{
+      "start":"22:58",
+      "end":"23:17",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":130,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #49 - Grand Senora Desert",
+    "notes":"",
+    "order":49,
+    "lat":75.49715731893087,
+    "lng":-107.49023437500006,
+    "video":{
+      "start":"23:17",
+      "end":"23:42",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":131,
+    "type":"Stunt Jump",
+    "title":"Stunt Jump #50 - Ron Alternates Wind Farm",
+    "notes":"",
+    "order":50,
+    "lat":75.28657817848102,
+    "lng":-105.205078125,
+    "video":{
+      "start":"23:42",
+      "yt_id":"YWzBHdXeIq0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":132,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #1 - Paleto Bay",
+    "notes":"By the side of the road is one wooden house which is abandoned and boarded up. Go around the back and through the door, and in this room is the Letter.",
+    "order":1,
+    "lat":83.3391531415795,
+    "lng":-124.2333984375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"0:05",
+      "end":"0:26",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":133,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #2 - Paleto Bay",
+    "notes":"By the side of the circular road is a small wooden building which seems to be a public toilet. On the left hand side, up a couple of steps and in front of the “Male” toilet sign, is this Letter.",
+    "order":2,
+    "lat":83.25709720189782,
+    "lng":-110.478515625,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"0:26",
+      "end":"0:46",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":134,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #3 - Mount Chiliad",
+    "notes":"In the campsite, which seems to be the home of an anti-capitalism protest, there will be a white tent with a “Social Justice For All” banner hanging outside of it along with some multi-coloured crates. In the entrance of this tent is the Letter.",
+    "order":3,
+    "lat":83.00484381972778,
+    "lng":-110.302734375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"0:46",
+      "end":"1:03",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":135,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #4 - Mount Chiliad",
+    "notes":"You will come across a farming area where crops are growing inside white canvas “tunnels”. Looking down the hill, the second tunnel on the left will contain the Letter, about halfway down.",
+    "order":4,
+    "lat":81.30832090051811,
+    "lng":-106.1279296875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"1:03",
+      "end":"1:33",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":136,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #5 - El Gordo Lighthouse",
+    "notes":"Just off the shore is a lighthouse. Swim over across to it, and on the left-hand side of the circular base is a small ledge and some stairs. Climb up these and the Letter will be on the floor in front of you behind the lighthouse.",
+    "order":5,
+    "lat":81.45320871717107,
+    "lng":-91.1865234375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"1:33",
+      "end":"2:14",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":137,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #6 - Galilee",
+    "notes":"There will be a few houses overlooking a jetty and a lake. In front of the one with the red door and a metal boat frame outside will be this Letter.",
+    "order":6,
+    "lat":80.15619999232506,
+    "lng":-111.6650390625,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"2:14",
+      "end":"2:38",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":138,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #7 - Sandy Shores",
+    "notes":"In front of the derelict motel will be an abandoned area that used to be used for sporting activities. In the small dug-out section that used to be a swimming pool will be this Letter.",
+    "order":7,
+    "lat":78.84457080539549,
+    "lng":-109.16015625,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"2:38",
+      "end":"3:02",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":139,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #8 - Grand Senora Desert",
+    "notes":"On the top of the three-tiered rock next to the runway is this Letter. You don’t actually need a helicopter to get up there, you can just climb up the rock with ",
+    "order":8,
+    "lat":77.73028235402455,
+    "lng":-111.5771484375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"3:02",
+      "end":"3:32",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":140,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #9 - Grand Senora Desert",
+    "notes":"On the construction site is the shell of a circular gas structure. In the very centre on some grating with construction poles sticking out of it is this Letter.",
+    "order":9,
+    "lat":76.47577254009317,
+    "lng":-115.48828125,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"3:32",
+      "end":"3:58",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":141,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #10 - Ron Alternates Wind Farm",
+    "notes":"You will have to either drive a boat or swim inside the cavern. In the back left is a small sandy section, on which this Letter lies.",
+    "order":10,
+    "lat":75.82365950624266,
+    "lng":-94.482421875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"3:58",
+      "end":"4:22",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":142,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #11 - Pacific Ocean",
+    "notes":"This is located on the first island south of No.10. Swim or drive to the island and the Letter will be amongst the rocks on the northern section of the island.",
+    "order":11,
+    "lat":74.56673621013677,
+    "lng":-94.658203125,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"4:22",
+      "end":"4:53",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":143,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #12 - Pacific Ocean",
+    "notes":"On top of the “I” on the “VINEWOOD” sign. Climb up the ladder on the side of it to get up there.",
+    "order":12,
+    "lat":73.35305494105975,
+    "lng":-117.861328125,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"4:53",
+      "end":"5:33",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":144,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #13 - Vinewood Racetrack",
+    "notes":"This one is in the stand facing the racetrack. Go up the stairs in front of the “Information” entrance, and the Letter will be on the fifth row of seats up.",
+    "order":13,
+    "lat":70.18510275498964,
+    "lng":-114.43359375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"5:33",
+      "end":"6:05",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":145,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #14 - East Vinewood",
+    "notes":"Underneath the bridge, this Letter is on the middle of the three platforms jutting out over the river.",
+    "order":14,
+    "lat":68.87935761076949,
+    "lng":-113.994140625,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"6:05",
+      "end":"6:30",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":146,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #15 - Hawick",
+    "notes":"This one is inside the skate park, on the floor in the middle of the ramp.",
+    "order":15,
+    "lat":68.9110048456202,
+    "lng":-121.9921875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"6:30",
+      "end":"6:50",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":147,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #16 - Alta",
+    "notes":"This Letter is in a hole on the construction site. You should easily be able to spot it by the number of red bollards around the hole.",
+    "order":16,
+    "lat":68.17155518732503,
+    "lng":-123.5302734375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"6:50",
+      "end":"7:16",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":148,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #17 - Pillbox Hill",
+    "notes":"This is on top of the huge yellow crane in Los Santos. You can access the ladder underground in the construction site, then you’ll have to climb up all the way to the top which will take several minutes. At the very top is the Letter.",
+    "order":17,
+    "lat":65.87472467098549,
+    "lng":-125.859375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"7:16",
+      "end":"8:10",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":149,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #18 - La Mesa",
+    "notes":"Either side of the bridge is an archway. Underneath the arch on the south side of the bridge is this letter.",
+    "order":18,
+    "lat":65.78475783804785,
+    "lng":-118.6083984375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"8:10",
+      "end":"8:31",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":150,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #19 - Pacific Ocean",
+    "notes":"On the east side of the island is a beach. At the far end of it is this Letter.",
+    "order":19,
+    "lat":64.71787992684128,
+    "lng":-96.6796875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"8:31",
+      "end":"8:52",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":151,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #20 - El Burro Heights",
+    "notes":"Inside the middle building in this area is a rusty sheltered area with a green roof and a skip next to it. In this small area is the Letter.",
+    "order":20,
+    "lat":61.10078883158897,
+    "lng":-109.9951171875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"8:52",
+      "end":"9:18",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":152,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #21 - El Burro Heights",
+    "notes":"This Letter is located on a platform by the side of the train tunnel. To get in there, you will have to drive through the entrance to the tunnel which is further south.",
+    "order":21,
+    "lat":60.37042901631508,
+    "lng":-117.2021484375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"9:18",
+      "end":"10:01",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":153,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #22 - Terminal / Buccaneer Way",
+    "notes":"This one involves climbing quite a few containers in the shipment area. First climb up the yellow “Post Op” container, and then the grey “Jetsam” one. Jump over the small gap to the next container, then climb up the one either side to jump across to the blue on which the Letter sits on top of.",
+    "order":22,
+    "lat":56.559482483762245,
+    "lng":-114.5654296875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"10:01",
+      "end":"10:31",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":154,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #23 - Sandy Shores",
+    "notes":"This is located on the western-most boat on dry land in this area. Cross the small yellow bridge to get on the boat, then take the steps up to the captain’s bridge and the Letter is just behind the enclosed section.",
+    "order":23,
+    "lat":58.10110549730587,
+    "lng":-125.419921875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"10:31",
+      "end":"10:59",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":155,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #24 - Davis / Grove St",
+    "notes":"This is located behind one of the houses in Grove Street, on the doorstep of the back door. The particular house in question should be familiar to anyone who played San Andreas.",
+    "order":24,
+    "lat":61.71070595883174,
+    "lng":-124.013671875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"10:59",
+      "end":"11:26",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":156,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #25 - Davis / Davis Ave",
+    "notes":"This is located in a green container filled with rubbish outside the blue “Mega Mall” building.",
+    "order":25,
+    "lat":62.895217544882044,
+    "lng":-124.5849609375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"11:26",
+      "end":"11:50",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":157,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #26 - Los Santos International Airport",
+    "notes":"[Helicopter Required] You will need a helicopter to fly onto the circular structure inside the airport. In front of a door in the circular blue column is the Letter.",
+    "order":26,
+    "lat":59.22093407615045,
+    "lng":-133.505859375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"11:50",
+      "end":"12:25",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":158,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #27 - Davis",
+    "notes":"To the right of the steps leading down into the airport with the red “LSIA” sign above them. This Letter will be on the floor in front of 4 blue seats built into the wall.",
+    "order":27,
+    "lat":57.98480801923985,
+    "lng":-134.82421875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"12:25",
+      "end":"12:51",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":159,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #28 - San Andreas",
+    "notes":"On the beach there is a concrete skate park. This Letter is located in one of the holes in the park.",
+    "order":28,
+    "lat":64.35893097894458,
+    "lng":-137.8564453125,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"12:51",
+      "end":"13:12",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":160,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #29 - La Puerta",
+    "notes":"Underneath the bridge is a tunnel. Jump into the water and swim under the bridge. The Letter is on the platform in the centre of the tunnel.",
+    "order":29,
+    "lat":64.86760781632728,
+    "lng":-134.6044921875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"13:12",
+      "end":"13:42",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":161,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #30 - La Puerta / Palomino Ave",
+    "notes":"At the end of the pier is a large blue/grey building. Climb up the stairs on the left-hand side of the grey section and cross the bridge to the right of the toilets. The Letter will be next to a couple of blue umbrellas on the floor.",
+    "order":30,
+    "lat":64.99793920061401,
+    "lng":-142.3828125,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"13:42",
+      "end":"14:15",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":162,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #31 - Richards Majestic",
+    "notes":"Climb over the fence in front of the “Vinewood Zombie” sign and go up the stairs. Climb up onto the air condition unit and then over the railing to find this Letter between two more units.",
+    "order":31,
+    "lat":67.8258363798566,
+    "lng":-136.0107421875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"14:15",
+      "end":"14:55",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":163,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #32 - Pacific Bluffs",
+    "notes":"This is located in front of the sarcophagus with two rose wreaths laid against it, on the small island in the middle of the pond.",
+    "order":32,
+    "lat":68.98992503056704,
+    "lng":-141.328125,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"14:55",
+      "end":"15:14",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":164,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #33 - Pacific Bluffs",
+    "notes":"This is really easy to spot, located on the bar next to the swimming pool. ",
+    "order":33,
+    "lat":70.00556654574504,
+    "lng":-154.3359375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"15:14",
+      "end":"15:41",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":165,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #34 - Pacific Bluffs",
+    "notes":"This is located in the maze. From the entrance, follow the path to the first fork. Then take a right, then the first left, then left again twice to come across this Letter.",
+    "order":34,
+    "lat":70.3926061360023,
+    "lng":-146.4697265625,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"15:41",
+      "end":"16:13",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":166,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #35 - West Vinewood",
+    "notes":"In front of some doors is a semicircular cobblestoned area with a sort of table next to it. On the table is this Letter.",
+    "order":35,
+    "lat":69.88501003874241,
+    "lng":-127.705078125,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"16:13",
+      "end":"16:41",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":167,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #36 - Pacific Bluffs",
+    "notes":"This one is inside the room next to the swimming pool, in front of a table tennis table.",
+    "order":36,
+    "lat":72.38240996837266,
+    "lng":-125.68359375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"16:41",
+      "end":"17:02",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":168,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #37 - Tongva Valley",
+    "notes":"By the side of the road is a tourist information board. The Letter is right in front of it.",
+    "order":37,
+    "lat":73.84928645675247,
+    "lng":-139.39453125,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"17:02",
+      "end":"17:23",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":169,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #38 - Vinewood Hills",
+    "notes":"This is located just to the right of the orange “Big” juice stand next to a set of four tables and benches.",
+    "order":38,
+    "lat":74.4375718479728,
+    "lng":-129.0234375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"17:23",
+      "end":"17:45",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":170,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #39 - Great Chaparaal",
+    "notes":"By the side of the road is an old mine entrance. Just to the left of it is the Letter Scrap.",
+    "order":39,
+    "lat":75.74812548842993,
+    "lng":-130.60546875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"17:45",
+      "end":"18:10",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":171,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #40 - Grand Senora Desert",
+    "notes":"Between the huge barn and the abandoned house is an old wooden billboard. The Letter is behind it.",
+    "order":40,
+    "lat":76.1113484424047,
+    "lng":-122.783203125,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"18:10",
+      "end":"18:35",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":172,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #41 - Grand Senora Desert",
+    "notes":"This is on top of the largest building in the quarry. To get up there, follow the series of ladders which begins on ground level next to the building on one of the support beams.",
+    "order":41,
+    "lat":77.37990618476177,
+    "lng":-121.81640625,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"18:35",
+      "end":"19:24",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":173,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #42 - Great Chaparaal",
+    "notes":"In front of the church is a small graveyard. In the graveyard in front of three white crosses is the Letter.",
+    "order":42,
+    "lat":77.38950400539731,
+    "lng":-127.3974609375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"19:24",
+      "end":"19:47",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":174,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #43 - Great Chaparaal",
+    "notes":"Underneath the bridge is a rocky path, and this Letter Scrap is right in the middle of it.",
+    "order":43,
+    "lat":77.19617635994676,
+    "lng":-132.7587890625,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"19:47",
+      "end":"20:06",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":175,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #44 - Zancudo River / Route 68",
+    "notes":"If the bridge is ahead of you in the distance, this Letter will be just in front of the stream amongst some reeds to the right.",
+    "order":44,
+    "lat":76.93055466727323,
+    "lng":-147.48046875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"20:06",
+      "end":"20:27",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":176,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #45 - Raton Canyon",
+    "notes":"[Helicopter Required] This Letter is on top of a small rock that can only be accessed by a helicopter. Once you’re up there, it’s very easy to spot.",
+    "order":45,
+    "lat":80.05804956215623,
+    "lng":-140.1416015625,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"20:27",
+      "end":"21:03",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":177,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #46 - Mount Chiliad",
+    "notes":"On the small hill sticking out into the sea, this one is located down next to the sea. ",
+    "order":46,
+    "lat":80.17871349622823,
+    "lng":-124.4091796875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"21:03",
+      "end":"21:26",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":178,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #47 - Chiliad Mountain State Wilderness",
+    "notes":"This is located in the Altruist’s camp. Once inside, climb up the stairs cut into the side of the hill and go up the trail to the hut. Climb up the two ladders and this will be on a ledge next to you.",
+    "order":47,
+    "lat":80.96300406055933,
+    "lng":-134.2529296875,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"21:26",
+      "end":"21:56",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":179,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #48 - Paleto Forest",
+    "notes":"By the side of the road is a rock and a few trees together. Between two of the tress is this Letter.",
+    "order":48,
+    "lat":81.88605575260925,
+    "lng":-130.166015625,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"21:56",
+      "end":"22:20",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":180,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #49 - Mount Chiliad",
+    "notes":"This Letter is located on the floor of the cable car station at the very summit of Mount Chiliad.",
+    "order":49,
+    "lat":82.02137801950887,
+    "lng":-120.146484375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"22:20",
+      "end":"22:44",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":181,
+    "type":"Letter Scrap",
+    "title":"Letter Scrap #50 - Paleto Bay / Proccopio Dr",
+    "notes":"This Letter is on the roof of the house. Use the steps to get up there and it’ll be on the floor near a table with an umbrella over it.",
+    "order":50,
+    "lat":82.96189798993065,
+    "lng":-128.8037109375,
+    "credit":[
+      {
+        "what":"Notes",
+        "who":"Darth_Krid",
+        "where":"http://www.ps3trophies.org/forum/grand-theft-auto-v/210938-grand-theft-auto-v-100-completion-guide-checklist-collectibles-stunts-more.html#post3913566"
+      }
+    ],
+    "video":{
+      "start":"22:44",
+      "yt_id":"WUV0ZDQjyrU",
+      "yt_user":"PowerPyx"
+    }
+  }
+]

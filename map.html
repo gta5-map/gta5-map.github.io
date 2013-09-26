@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>LS Guide</title>
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,500">
+	<link rel="stylesheet" href="style.css">
+
+	<script src="js/libs/jquery-min.js"></script>
+	<script src="js/libs/underscore-min.js"></script>
+	<script src="js/libs/backbone-min.js"></script>
+	<script src="js/libs/handlebars.js"></script>
+	<script src="http://www.google.com/jsapi"></script>
+	<script src="http://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+	<script src="js/app.js"></script>
+</head>
+<body class="">
+
+	<header>
+		<p class="left">Your Guide to Los Santos and Blaine County</p>
+		<ul class="right">
+			<li><a href="#" class="active">Map</a></li>
+			<li><a href="#tour">Tour</a></li>
+			<li><a href="#">Cheats &amp; Tricks</a></li>
+		</ul>
+	</header>
+
+	<div id="tour-nav">
+		<a href="#" class="left">&laquo; <span id="tour-prev"></span></a>
+		<h3>Nuclear Waste Tour</h3>
+		<a href="#" class="right"><span id="tour-next"></span> &raquo;</a>
+	</div>
+
+	<div id="map" style="background:#1862ad;"></div>
+
+	<div id="tour-info"></div>
+
+	<script type="x/template" id="categoriesTemplate">
+		{{#each categories}}
+			<section class="type">
+				<h3>{{name}}</h3>
+				<ul>
+					{{#each types}}
+						<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="{{name}}"> <img src="icons/{{icon}}"> {{name}}</label> <a href="#tour" class="tt"></a></li>
+					{{/each}}
+				</ul>
+			</section>
+		{{/each}}
+	</script>
+
+	<script type="x/template" id="markerPopupTemplate">
+		<div id="info-window" style="max-width:420px;">
+			<span class="header">
+				<h4>{{title}}</h4>
+			</span>
+			<div id="info-body">
+				{{#if notes}}
+					<p>{{notes}}</p>
+				{{/if}}
+				{{#if video}}
+					<iframe width="420" height="315" src="//www.youtube.com/embed/{{video.yt_id}}?theme=light&amp;autoplay=1&amp;autohide=1&amp;modestbranding=1&amp;iv_load_policy=3&amp;rel=0&amp;showinfo=0&amp;loop=1{{#if video.start}}&amp;start={{timestampToSeconds video.start}}{{/if}}{{#if video.end}}&amp;end={{timestampToSeconds video.end}}{{/if}}" frameborder="0" allowfullscreen></iframe>
+					{{#if video.yt_user}}
+						<p>
+							<a href="//www.youtube.com/user/{{video.yt_user}}" style="color:#222;font-size:.8em;float:right;">
+								Video by {{video.yt_user}}
+							</a>
+						</p>
+					{{/if}}
+				{{/if}}
+			</div>
+		</div>
+	</script>
+
+	<script type="x/template" id="markerPopupTemplate2">
+		<div id="info-window" style="max-width:420px;">
+			<span class="header">
+				<h4>{{title}}</h4>
+			</span>
+			<div id="info-body">
+				{{#if notes}}
+					<p>{{notes}}</p>
+				{{/if}}
+				{{#if video}}
+					<iframe width="420" height="315" src="//www.youtube.com/apiplayer?version=3&video_id={{video.yt_id}}&amp;playlist={{video.yt_id}}&amp;autoplay=1&amp;autohide=1&amp;modestbranding=1&amp;iv_load_policy=3&amp;rel=0&amp;showinfo=0&amp;loop=1{{#if video.start}}&amp;start={{timestampToSeconds video.start}}{{/if}}{{#if video.end}}&amp;end={{timestampToSeconds video.end}}{{/if}}" frameborder="0" allowfullscreen></iframe>
+					{{#if video.yt_user}}
+						<p>
+							<a href="//www.youtube.com/user/{{video.yt_user}}" style="color:#222;font-size:.8em;float:right;" target="_blank">
+								Video by {{video.yt_user}}
+							</a>
+						</p>
+					{{/if}}
+				{{/if}}
+				{{#each credit}}
+					<p style="overflow:hidden;clear:both;text-align:right;">
+						<a href="{{#if where}}{{where}}{{else}}#{{/if}}" target="_blank" style="color:#222;font-size:.8em;">
+							{{what}} by {{who}}
+						</a>
+					</p>
+				{{/each}}
+			</div>
+		</div>
+	</script>
+
+	<div id="types">
+<!-- 		<section class="type">
+			<h3>Collectables</h3>
+			<ul>
+				<li><label><input type="checkbox"> <img src="icon/collectable/aerial-challenge.png"> Aerial Challenge</label></li>
+				<li><label><input type="checkbox"> <img src="icon/collectable/epsilon-tract.png"> Epsilon Tract</label></li>
+				<li><label><input type="checkbox"> <img src="icon/collectable/hidden-package.png"> Hidden Package</label></li>
+				<li><label><input type="checkbox"> <img src="icon/collectable/letter-scrap.png"> Letter Scrap</label></li>
+				<li><label><input type="checkbox"> <img src="icon/collectable/money.png"> Briefcase</label></li>
+				<li><label><input type="checkbox" checked class="n"> <img src="icon/collectable/nuclear-waste.png"> Nuclear Waste</label></li>
+				<li><label><input type="checkbox"> <img src="icon/collectable/property.png"> Property</label></li>
+				<li><label><input type="checkbox"> <img src="icon/collectable/random-event.png"> Random Event</label></li>
+				<li><label><input type="checkbox"> <img src="icon/collectable/spaceship-part.png"> Spaceship Part</label></li>
+				<li><label><input type="checkbox"> <img src="icon/collectable/stunt-jump.png"> Stunt Jump</label></li>
+				<li><label><input type="checkbox"> <img src="icon/collectable/submarine-piece.png"> Submarine Piece</label></li>
+			</ul>
+		</section>
+ -->
+	<!-- 	<section class="type">
+			<h3>Activities</h3>
+			<ul>
+				<li><label><input type="checkbox"> <img src="icons/cinema.png"> Cinema</label></li>
+				<li><label><input type="checkbox"> <img src="icons/darts.png"> Darts</label></li>
+				<li><label><input type="checkbox"> <img src="icons/flight-school.png"> Flight School</label></li>
+				<li><label><input type="checkbox"> <img src="icons/golfing.png"> Golfing</label></li>
+				<li><label><input type="checkbox"> <img src="icons/hunting.png"> Hunting</label></li>
+				<li><label><input type="checkbox" checked class="p"> <img src="icons/parachuting.png"> Parachuting</label></li>
+				<li><label><input type="checkbox"> <img src="icons/races.png"> Race</label></li>
+				<li><label><input type="checkbox"> <img src="icons/shooting.png"> Shooting</label></li>
+				<li><label><input type="checkbox"> <img src="icons/strip-club.png"> Strip Club</label></li>
+				<li><label><input type="checkbox"> <img src="icons/tennis.png"> Tennis</label></li>
+				<li><label><input type="checkbox"> <img src="icons/triathlon.png"> Triathlon</label></li>
+				<li><label><input type="checkbox"> <img src="icons/yoga.png"> Yoga</label></li>
+			</ul>
+		</section>
+
+		<section class="type collapsed">
+			<h3>Pickups</h3>
+			<ul>
+				<li><label><input type="checkbox" checked> <img src="icons/armor.png"> Armor</label></li>
+				<li><label><input type="checkbox"> <img src="icons/weapon-pickup.png"> Weapon</label></li>
+				<li><label><input type="checkbox"> <img src="icons/briefcase.png"> Vehicle</label></li>
+			</ul>
+		</section>
+
+		<section class="type collapsed">
+			<h3>Shops</h3>
+			<ul>
+				<li><label><input type="checkbox"> <img src="icons/ammu-nation.png"> Ammu-Nation</label></li>
+				<li><label><input type="checkbox"> <img src="icons/automotive.png"> Automotive</label></li>
+				<li><label><input type="checkbox"> <img src="icons/car-wash.png"> Car Wash</label></li>
+				<li><label><input type="checkbox"> <img src="icons/barber.png"> Barber</label></li>
+				<li><label><input type="checkbox"> <img src="icons/clothes.png"> Clothes</label></li>
+				<li><label><input type="checkbox"> <img src="icons/tattoo.png"> Tattoo</label></li>
+			</ul>
+		</section>
+
+		<section class="type collapsed">
+			<h3>Points of Interest</h3>
+			<ul>
+				<li><label><input type="checkbox"> <img src="icons/atm.png"> ATM</label></li>
+				<li><label><input type="checkbox"> <img src="icons/store.png"> Convenience Store</label></li>
+				<li><label><input type="checkbox"> <img src="icons/automotive.png"> Garage</label></li>
+				<li><label><input type="checkbox"> <img src="icons/hospital.png"> Hospital</label></li>
+				<li><label><input type="checkbox"> <img src="icons/police-station.png"> Police Station</label></li>
+				<li><label><input type="checkbox"> <img src="icons/police-station.png"> Fire Station</label></li>
+			</ul>
+		</section>
+	 -->
+	</div>
+
+</body>
+</html>
