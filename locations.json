@@ -3412,7 +3412,7 @@
   {
     "id":182,
     "type":"Knife Flight",
-    "name":"Knife Flight #1",
+    "title":"Knife Flight #1",
     "notes":null,
     "order":1,
     "lat":69.80172356231073,
@@ -3427,7 +3427,7 @@
   {
     "id":183,
     "type":"Knife Flight",
-    "name":"Knife Flight #2",
+    "title":"Knife Flight #2",
     "notes":null,
     "order":2,
     "lat":69.61885926881004,
@@ -3442,7 +3442,7 @@
   {
     "id":184,
     "type":"Knife Flight",
-    "name":"Knife Flight #3",
+    "title":"Knife Flight #3",
     "notes":null,
     "order":3,
     "lat":67.13582938531948,
@@ -3457,7 +3457,7 @@
   {
     "id":185,
     "type":"Knife Flight",
-    "name":"Knife Flight #4",
+    "title":"Knife Flight #4",
     "notes":null,
     "order":4,
     "lat":66.95587684341999,
@@ -3472,7 +3472,7 @@
   {
     "id":186,
     "type":"Knife Flight",
-    "name":"Knife Flight #5",
+    "title":"Knife Flight #5",
     "notes":null,
     "order":5,
     "lat":66.85244636494531,
@@ -3487,7 +3487,7 @@
   {
     "id":187,
     "type":"Knife Flight",
-    "name":"Knife Flight #6",
+    "title":"Knife Flight #6",
     "notes":null,
     "order":6,
     "lat":66.56574650920783,
@@ -3502,7 +3502,7 @@
   {
     "id":188,
     "type":"Knife Flight",
-    "name":"Knife Flight #7",
+    "title":"Knife Flight #7",
     "notes":null,
     "order":7,
     "lat":67.28901521116026,
@@ -3517,7 +3517,7 @@
   {
     "id":189,
     "type":"Knife Flight",
-    "name":"Knife Flight #8",
+    "title":"Knife Flight #8",
     "notes":null,
     "order":8,
     "lat":67.50016133802775,
@@ -3532,7 +3532,7 @@
   {
     "id":190,
     "type":"Knife Flight",
-    "name":"Knife Flight #9",
+    "title":"Knife Flight #9",
     "notes":null,
     "order":9,
     "lat":68.69650487125402,
@@ -3547,7 +3547,7 @@
   {
     "id":191,
     "type":"Knife Flight",
-    "name":"Knife Flight #10",
+    "title":"Knife Flight #10",
     "notes":null,
     "order":10,
     "lat":68.41535220938925,
@@ -3562,7 +3562,7 @@
   {
     "id":192,
     "type":"Knife Flight",
-    "name":"Knife Flight #11",
+    "title":"Knife Flight #11",
     "notes":null,
     "order":11,
     "lat":67.60084926188546,
@@ -3577,7 +3577,7 @@
   {
     "id":193,
     "type":"Knife Flight",
-    "name":"Knife Flight #12",
+    "title":"Knife Flight #12",
     "notes":null,
     "order":12,
     "lat":67.7427590666639,
@@ -3592,7 +3592,7 @@
   {
     "id":194,
     "type":"Knife Flight",
-    "name":"Knife Flight #13",
+    "title":"Knife Flight #13",
     "notes":null,
     "order":13,
     "lat":68.60852084639889,
@@ -3607,7 +3607,7 @@
   {
     "id":195,
     "type":"Knife Flight",
-    "name":"Knife Flight #14",
+    "title":"Knife Flight #14",
     "notes":null,
     "order":14,
     "lat":70.48089578887483,
@@ -3622,7 +3622,7 @@
   {
     "id":196,
     "type":"Knife Flight",
-    "name":"Knife Flight #15",
+    "title":"Knife Flight #15",
     "notes":null,
     "order":15,
     "lat":70.57611174177542,
