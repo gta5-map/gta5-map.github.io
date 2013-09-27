@@ -91,7 +91,8 @@ $(function() {
 		{
 			name: 'Spaceship Part',
 			icon: 'collectable/spaceship-part.png',
-			type: 'Collectables'
+			type: 'Collectables',
+			enabled: true,
 		},
 		{
 			name: 'Letter Scrap',
@@ -111,8 +112,7 @@ $(function() {
 		{
 			name: 'Nuclear Waste',
 			icon: 'collectable/nuclear-waste.png',
-			type: 'Collectables',
-			enabled: true
+			type: 'Collectables'
 		},
 		{
 			name: 'Money',
