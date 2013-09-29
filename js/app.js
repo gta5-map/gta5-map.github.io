@@ -26,6 +26,10 @@ $(function() {
 	// 		window.isTourMode = false;
 	// 	}
 	// });
+	
+	var assetsUrl = function() {
+		return window.location.host == 'localhost' ? '' : 'https://s3-eu-west-1.amazonaws.com/gtavmap/';
+	};
 
 	var timestampToSeconds = function(stamp) {
 		stamp = stamp.split(':');
@@ -73,6 +77,8 @@ $(function() {
 			if (o) {
 				return o.get('icon');
 			}
+
+			return assetsUrl() + (o ? o.get('icon') : 'blank.png');
 		},
 
 		forView: function(type) {
@@ -240,7 +246,7 @@ $(function() {
 				return null;
 			}
 
-			return 'tiles/' + this.mapType.toLowerCase() + '/' + zoomLevel + '-' + coord.x + '_' + coord.y + '.png';
+			return assetsUrl() + 'tiles/' + this.mapType.toLowerCase() + '/' + zoomLevel + '-' + coord.x + '_' + coord.y + '.png';
 		},
 
 		normalizeCoordinates: function(coord, zoom) {
