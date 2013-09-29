@@ -3731,5 +3731,36 @@
     "order":12,
     "lat":81.08810944846965,
     "lng":-134.923095703125
+  },
+  {
+    "id":208,
+    "type":"Car Spawn",
+    "title": "Rare Car Spawn",
+    "notes":"Number of different sports cars will spawn here regularly",
+    "order":1,
+    "lat":70.64176873584621,
+    "lng":-147.2607421875
+  },
+  {
+    "id":209,
+    "type":"Car Spawn",
+    "title":"Adder",
+    "notes":"In-game version of the Bugatti",
+    "order":2,
+    "lat":68.72044056989829,
+    "lng":-131.275634765625
+  },
+  {
+    "id":210,
+    "type":"Car Spawn",
+    "title":"Unmarked FIB Car",
+    "notes":"",
+    "order":3,
+    "lat":77.52312179020576,
+    "lng":-104.403076171875,
+    "video":{
+      "yt_id":"GSHzRByOmzM",
+      "yt_user":"BigDaddyGmnChocolate"
+    }
   }
 ]

@@ -118,6 +118,11 @@ $(function() {
 			name: 'Money',
 			icon: 'misc/money.png',
 			type: 'Misc'
+		},
+		{
+			name: 'Car Spawn',
+			icon: 'pickup/car.png',
+			type: 'Misc'
 		}
 	]);
 
