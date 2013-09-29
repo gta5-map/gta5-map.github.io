@@ -452,15 +452,11 @@
   {
     "id":31,
     "type":"Money",
-    "title":"$25,000 Briefcase",
-    "lat":68.114053460334,
-    "lng":-151.8291015625,
-    "notes":"This briefcase is exploitable for unlimited money",
+    "title":"Hidden Package #1",
+    "notes":"",
     "order":1,
-    "video":{
-      "yt_id":"mgfxXv7GA38",
-      "yt_user":"PowerPyx"
-    }
+    "lat":83.28798543651806,
+    "lng":-133.505859375
   },
   {
     "id":32,
@@ -3632,5 +3628,108 @@
       "yt_id":"_sSwCoecn0I",
       "yt_user":"PowerPyx"
     }
+  },
+  {
+    "id":197,
+    "type":"Money",
+    "title":"Hidden Package #2",
+    "notes":"",
+    "order":2,
+    "lat":83.12686601138289,
+    "lng":-92.5048828125
+  },
+  {
+    "id":198,
+    "type":"Money",
+    "title":"Hidden Package #3",
+    "notes":"",
+    "order":3,
+    "lat":79.06347778914223,
+    "lng":-84.4189453125
+  },
+  {
+    "id":199,
+    "type":"Money",
+    "title":"Hidden Package #4",
+    "notes":"",
+    "order":4,
+    "lat":68.71246485443844,
+    "lng":-93.18603515625
+  },
+  {
+    "id":200,
+    "type":"Money",
+    "title":"Hidden Package #5",
+    "notes":"",
+    "order":5,
+    "lat":64.20637724320852,
+    "lng":-98.78906250000006
+  },
+  {
+    "id":201,
+    "type":"Money",
+    "title":"Hidden Package #6",
+    "notes":"",
+    "order":6,
+    "lat":57.350237477396846,
+    "lng":-107.27050781250006
+  },
+  {
+    "id":202,
+    "type":"Money",
+    "title":"Hidden Package #7",
+    "notes":"",
+    "order":7,
+    "lat":60.43554230669233,
+    "lng":-122.1240234375
+  },
+  {
+    "id":203,
+    "type":"Money",
+    "title":"Hidden Package #8",
+    "notes":"",
+    "order":8,
+    "lat":57.68066002977235,
+    "lng":-125.244140625
+  },
+  {
+    "id":204,
+    "type":"Money",
+    "title":"Hidden Package #9 - $25,000",
+    "notes":"This briefcase is exploitable for unlimited money",
+    "order":9,
+    "lat":68.11019783516616,
+    "lng":-151.8310546875,
+    "video":{
+      "yt_id":"mgfxXv7GA38",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":205,
+    "type":"Money",
+    "title":"Hidden Package #10",
+    "notes":"",
+    "order":10,
+    "lat":77.89725517594933,
+    "lng":-155.390625
+  },
+  {
+    "id":206,
+    "type":"Money",
+    "title":"Hidden Package #11",
+    "notes":"",
+    "order":11,
+    "lat":78.9377084355064,
+    "lng":-156.1376953125
+  },
+  {
+    "id":207,
+    "type":"Money",
+    "title":"Hidden Package #12",
+    "notes":"",
+    "order":12,
+    "lat":81.08810944846965,
+    "lng":-134.923095703125
   }
 ]
