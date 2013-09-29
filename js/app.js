@@ -27,9 +27,13 @@ $(function() {
 	// 	}
 	// });
 	
+	var currentMarker;
+	
 	var assetsUrl = function() {
 		return window.location.host == 'localhost' ? '' : 'https://s3-eu-west-1.amazonaws.com/gtavmap/';
 	};
+
+	Handlebars.registerHelper('assetsUrl', assetsUrl);
 
 	var timestampToSeconds = function(stamp) {
 		stamp = stamp.split(':');
@@ -58,6 +62,21 @@ $(function() {
 
 		markerClicked: function() {
 			Vent.trigger('location:clicked', this);
+		},
+
+		removeHighlight: function() {
+			var icon = this.get('marker').getIcon();
+			icon.scaledSize = new google.maps.Size(22, 22)
+			this.get('marker').setOptions({ icon: icon });
+		},
+
+		highlightMarker: function() {
+			debugger;
+			if (currentMarker) currentMarker.removeHighlight();
+			currentMarker = this;
+			var icon = this.get('marker').getIcon();
+			icon.scaledSize = new google.maps.Size(26, 26)
+			this.get('marker').setOptions({ icon: icon });
 		}
 	});
 	var LocationsCollection = Backbone.Collection.extend({
@@ -142,11 +161,13 @@ $(function() {
 			this.$el.html(this.template({
 				categories: categories.forView()
 			}));
+			$('#typeDetails').hide();
 			return this;
 		},
 
 		events: {
-			'change input': 'toggleLocations'
+			'change input': 'toggleLocations',
+			'click .details': 'showDetails'
 		},
 
 		toggleLocations: function(e) {
@@ -161,6 +182,63 @@ $(function() {
 			else {
 				Vent.trigger('locations:invisible', models);
 			}
+		},
+
+		showDetails: function(e) {
+			e.preventDefault();
+			this.toggleLocations(e);
+			var type = categories.findWhere({ name: $(e.currentTarget).data('name') });
+
+			var details = new CategoryDetailsView({
+				el: '#typeDetails',
+				type: type
+			});
+			details.render();
+
+		}
+
+	});
+
+	var CategoryDetailsView = Backbone.View.extend({
+
+		initialize: function() {
+			this.template = Handlebars.compile($('#categoryDetailsTemplate').html());
+		},
+
+		events: {
+			'click a.back': 'goBack',
+			'click li': 'showMarker'
+		},
+
+		goBack: function(e) {
+			e.preventDefault();
+			this.$el.empty();
+			this.off();
+			$('#types').show();
+		},
+
+		showMarker: function(e) {
+			var location = locations.get($(e.currentTarget).data('id'));
+			location.highlightMarker();
+			map.panTo(location.get('marker').getPosition());
+			map.setZoom(5);
+		},
+
+		render: function() {
+			var name = this.options.type.get('name');
+			var locs = locations.where({ type: name });
+			this.$el.html(this.template({
+				type: this.options.type.toJSON(),
+				locations: _(locs).map(function(x) {
+					var d = x.toJSON();
+					if (name == 'Money') name = 'Hidden Package';
+					d.title = d.title.replace(name+' ', '');
+					return d;
+				})
+			}));
+			$('#types').hide();
+			this.$el.show();
+			return this;
 		}
 
 	});

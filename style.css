@@ -92,7 +92,7 @@ header a.active {
 	display: none;
 }
 
-#types {
+.types {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -103,11 +103,11 @@ header a.active {
 	max-height: 702px;
 }
 
-#types::-webkit-scrollbar {
+.types::-webkit-scrollbar {
 	display: none;
 }
 
-#types .type {
+.types .type {
 	background: #fff;
 	box-shadow: 0 2px 6px rgba(0,0,0,0.3),0 4px 15px -5px rgba(0,0,0,0.0);
 	margin-top: 5px;
@@ -115,39 +115,42 @@ header a.active {
 	overflow: hidden;
 }
 
-#types .type:first-child { margin-top: 0; }
+.types .type:first-child { margin-top: 0; }
 
-#types .type h3 {
+.types .type h3 {
 	font-size: 0.9em;
 	padding: 3px 10px;
 	background: #eee;
 	cursor: pointer;
 }
 
-#types .type ul {
+.types .type ul {
 	padding: 3px 10px;
 	font-weight: 300;
 }
 
-#types .type.collapsed ul {
+.types .type.collapsed ul {
 	display: none;
 }
 
-#types .type li {
+.types .type li {
 	margin-bottom: 3px;
 	overflow: hidden;
-	width: 160px;
+	min-width: 160px;
+	max-width: 200px;
+	white-space: nowrap;
+	text-overflow: ellipsis;
 }
 
-#types .type label {
+.types .type label {
 	cursor: pointer;
 }
 
-#types .type input {
+.types .type input {
 	display: none;
 }
 
-#types .type img {
+.types .type img {
 	width: 16px;
 	position: relative;
 	top: 4px;
@@ -155,7 +158,7 @@ header a.active {
 	opacity: .2;
 }
 
-#types .type input:checked + img {
+.types .type input:checked + img {
 	-webkit-filter: grayscale(0);
 	opacity: 1;
 }
