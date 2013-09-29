@@ -65,18 +65,25 @@ $(function() {
 		},
 
 		removeHighlight: function() {
-			var icon = this.get('marker').getIcon();
-			icon.scaledSize = new google.maps.Size(22, 22)
-			this.get('marker').setOptions({ icon: icon });
+			this.get('marker').setIcon({
+				url: this.get('marker').getIcon().url,
+				scaledSize: new google.maps.Size(22, 22)
+			});
 		},
 
 		highlightMarker: function() {
-			debugger;
-			if (currentMarker) currentMarker.removeHighlight();
-			currentMarker = this;
-			var icon = this.get('marker').getIcon();
-			icon.scaledSize = new google.maps.Size(26, 26)
-			this.get('marker').setOptions({ icon: icon });
+			if (currentMarker == this) {
+				Vent.trigger('location:clicked', this);
+			}
+			else {
+				if (currentMarker) currentMarker.removeHighlight();
+				mapView.closePopupLocation();
+				currentMarker = this;
+				this.get('marker').setIcon({
+					url: this.get('marker').getIcon().url,
+					scaledSize: new google.maps.Size(32, 32)
+				});
+			}
 		}
 	});
 	var LocationsCollection = Backbone.Collection.extend({
@@ -181,13 +188,15 @@ $(function() {
 			}
 			else {
 				Vent.trigger('locations:invisible', models);
-			}
+			}	
 		},
 
 		showDetails: function(e) {
 			e.preventDefault();
-			this.toggleLocations(e);
-			var type = categories.findWhere({ name: $(e.currentTarget).data('name') });
+			var typeName = $(e.currentTarget).data('name');
+			this.$el.find('input[value="'+typeName+'"]').prop('checked', true).trigger('change');
+
+			var type = categories.findWhere({ name: typeName });
 
 			var details = new CategoryDetailsView({
 				el: '#typeDetails',
@@ -390,11 +399,15 @@ $(function() {
 				});
 				infoWindow.open(this.map, location.get('marker'));
 
-				if (this.currentInfoWindow) {
-					this.currentInfoWindow.close();
-				}
+				this.closePopupLocation();
 				this.currentInfoWindow = infoWindow;
 			// }
+		},
+
+		closePopupLocation: function() {
+			if (this.currentInfoWindow) {
+				this.currentInfoWindow.close();
+			}
 		}
 
 	});

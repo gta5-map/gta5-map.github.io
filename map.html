@@ -4,6 +4,7 @@
 	<meta charset="utf-8">
 	<title>LS Guide</title>
 	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,500">
+	<link rel="stylesheet" href="fontawesome/css/font-awesome.css">
 	<link rel="stylesheet" href="style.css">
 
 	<script src="js/libs/jquery-min.js"></script>
@@ -41,7 +42,7 @@
 				<h3>{{name}}</h3>
 				<ul>
 					{{#each types}}
-						<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="{{name}}"> <img src="{{assetsUrl}}icons/{{icon}}"> {{name}}</label> <a href="#" class="details" data-name="{{name}}">&raquo;</a> <!--<a href="#tour" class="tt"></a>--></li>
+						<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="{{name}}"> <img src="{{assetsUrl}}icons/{{icon}}"> {{name}}</label> <a href="#" class="details" data-name="{{name}}"><i class="icon-chevron-sign-right"></i></a> <!--<a href="#tour" class="tt"></a>--></li>
 					{{/each}}
 				</ul>
 			</section>
@@ -50,7 +51,7 @@
 
 	<script type="x/template" id="categoryDetailsTemplate">
 		<section class="type">
-			<h3><a href="#" class="back">&laquo;</a> {{type.name}}</h3>
+			<h3><a href="#" class="back details"><i class="icon-chevron-sign-left"></i></a> {{type.name}}</h3>
 			<ul>
 				{{#each locations}}
 					<li data-id="{{id}}"><label>{{title}}</label></li>

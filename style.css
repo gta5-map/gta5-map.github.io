@@ -171,3 +171,19 @@ display: inline-block;
 background-position: 0 61px;
 float: right;
 }
+
+.types .details {
+	color: #777;
+	text-decoration: none;
+	float: right;
+	margin-top: 3px;
+}
+
+.types .details:hover {
+	color: #222;
+}
+
+.types .back {
+	float: left;
+	margin: 0 5px 0 0;
+}
