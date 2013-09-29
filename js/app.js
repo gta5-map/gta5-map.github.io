@@ -49,7 +49,7 @@ $(function() {
 			var marker = new google.maps.Marker({
 				position: new google.maps.LatLng(this.get('lat'), this.get('lng')),
 				icon: {
-					url: 'icons/'+categories.getIcon(this.get('type')),
+					url: assetsUrl()+'icons/'+categories.getIcon(this.get('type')),
 					scaledSize: new google.maps.Size(22, 22),
 				}
 			});
