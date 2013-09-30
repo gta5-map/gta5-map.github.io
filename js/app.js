@@ -1,5 +1,18 @@
 $(function() {
 
+	var $types = $('.types');
+
+	var onResize = function() {
+		$types.css({
+			maxHeight: $(window).height() - parseInt($types.css('marginTop'), 10) - parseInt($types.css('marginBottom'), 10) - parseInt($('header').height()) + 6
+		});
+	};
+
+	onResize();
+
+	$(window).resize(onResize);
+
+
 	// window.isTourMode = false;
 
 	// if (window.location.hash == '#tour') {
