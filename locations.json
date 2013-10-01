@@ -476,7 +476,7 @@
     "video":{
       "yt_id":"MDCAHknkqk0",
       "yt_user":"PowerPyx",
-      "start":"0:05",
+      "start":"0:25",
       "end":"0:44"
     }
   },
@@ -574,8 +574,8 @@
     "title":"Spaceship Part #6 - Sandy Shores",
     "notes":"This Part is located underwater in the small bay on the north of Sandy Shores. Dive down underwater and you will see the Part glowing brightly against the seafloor, so it’s hard to miss.",
     "order":6,
-    "lat":79.43237075914708,
-    "lng":-110.654296875,
+    "lat":79.3474112938645,
+    "lng":-110.20385742187494,
     "credit":[
       {
         "what":"Notes",
@@ -596,8 +596,8 @@
     "title":"Spaceship Part #7 - Grand Senora Desert",
     "notes":"Next to the off-road trail is a rock formation. Up the small hill underneath the face of the rock is this Part.",
     "order":7,
-    "lat":78.63866586376248,
-    "lng":-105.64453125,
+    "lat":78.5996431995155,
+    "lng":-105.941162109375,
     "credit":[
       {
         "what":"Notes",
