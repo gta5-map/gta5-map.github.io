@@ -3762,5 +3762,229 @@
       "yt_id":"GSHzRByOmzM",
       "yt_user":"BigDaddyGmnChocolate"
     }
+  },
+  {
+    "id":211,
+    "type":"Epsilon Car",
+    "title":"Declasse Tornado",
+    "notes":"",
+    "order":1,
+    "lat":69.08425705053145,
+    "lng":-119.32250976562494,
+    "video":{
+      "start":"2:32",
+      "end":"3:15",
+      "yt_id":"PMevYDxD5l0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":212,
+    "type":"Epsilon Car",
+    "title":"Pegassi Vacca",
+    "notes":"",
+    "order":2,
+    "lat":71.2337552335634,
+    "lng":-125.31005859374994,
+    "video":{
+      "start":"3:17",
+      "end":"3:35",
+      "yt_id":"PMevYDxD5l0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":213,
+    "type":"Epsilon Car",
+    "title":"Benefactor Surano",
+    "notes":"",
+    "order":3,
+    "lat":72.47527631092942,
+    "lng":-125.29907226562494,
+    "video":{
+      "start":"3:37",
+      "end":"3:56",
+      "yt_id":"PMevYDxD5l0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":214,
+    "type":"Epsilon Car",
+    "title":"Enus Super Diamond",
+    "notes":"",
+    "order":4,
+    "lat":68.22867443377436,
+    "lng":-131.67114257812494,
+    "video":{
+      "start":"3:58",
+      "end":"4:20",
+      "yt_id":"PMevYDxD5l0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":215,
+    "type":"Epsilon Car",
+    "title":"Dinka Double-T",
+    "notes":"",
+    "order":5,
+    "lat":68.83180177092166,
+    "lng":-135.12084960937494,
+    "video":{
+      "start":"4:22",
+      "end":"4:55",
+      "yt_id":"PMevYDxD5l0",
+      "yt_user":"PowerPyx"
+    }
+  },
+  {
+    "id":216,
+    "type":"Epsilon Tract",
+    "title":"Epsilon Tract #1",
+    "notes":"“We worship Kram where the earth reaches up to Kraff”.",
+    "order":1,
+    "lat":82.05333803276643,
+    "lng":-119.70703125,
+    "video":{
+      "start":"0:18",
+      "end":"0:35",
+      "yt_id":"gnuPvliV8T8",
+      "yt_user":"MrVuule"
+    }
+  },
+  {
+    "id":217,
+    "type":"Epsilon Tract",
+    "title":"Epsilon Tract #2",
+    "notes":"“Where the first one of the fleet succumbed to the waves, there the message is seeded”.",
+    "order":2,
+    "lat":64.45384948864441,
+    "lng":-98.70117187500006,
+    "video":{
+      "start":"0:35",
+      "end":"1:14",
+      "yt_id":"gnuPvliV8T8",
+      "yt_user":"MrVuule"
+    }
+  },
+  {
+    "id":218,
+    "type":"Epsilon Tract",
+    "title":"Epsilon Tract #3",
+    "notes":"“When they sail from the North, they will find this offering”.",
+    "order":3,
+    "lat":84.38877975103254,
+    "lng":-124.34326171875,
+    "video":{
+      "start":"1:14",
+      "end":"1:32",
+      "yt_id":"gnuPvliV8T8",
+      "yt_user":"MrVuule"
+    }
+  },
+  {
+    "id":219,
+    "type":"Epsilon Tract",
+    "title":"Epsilon Tract #4",
+    "notes":"“In the core of the mountain, where the blast is not felt, you shall find it”.",
+    "order":4,
+    "lat":80.78879540362863,
+    "lng":-126.903076171875,
+    "video":{
+      "start":"1:32",
+      "end":"1:54",
+      "yt_id":"gnuPvliV8T8",
+      "yt_user":"MrVuule"
+    }
+  },
+  {
+    "id":220,
+    "type":"Epsilon Tract",
+    "title":"Epsilon Tract #5",
+    "notes":"“In the rubble of the old religion, will be the basis for the new”.",
+    "order":5,
+    "lat":67.25505812564363,
+    "lng":-131.978759765625,
+    "video":{
+      "start":"1:54",
+      "end":"2:13",
+      "yt_id":"gnuPvliV8T8",
+      "yt_user":"MrVuule"
+    }
+  },
+  {
+    "id":221,
+    "type":"Epsilon Tract",
+    "title":"Epsilon Tract #6",
+    "notes":"“When the first fleet sailed, the new fleet will find the map”.",
+    "order":6,
+    "lat":81.59569894043715,
+    "lng":-140.2294921875,
+    "video":{
+      "start":"2:13",
+      "end":"2:30",
+      "yt_id":"gnuPvliV8T8",
+      "yt_user":"MrVuule"
+    }
+  },
+  {
+    "id":222,
+    "type":"Epsilon Tract",
+    "title":"Epsilon Tract #7",
+    "notes":"“What dwelling is worthy of Kraff? He is humble, yet we exalt him”.",
+    "order":7,
+    "lat":70.96328094668633,
+    "lng":-142.09716796875,
+    "video":{
+      "start":"2:30",
+      "end":"2:50",
+      "yt_id":"gnuPvliV8T8",
+      "yt_user":"MrVuule"
+    }
+  },
+  {
+    "id":223,
+    "type":"Epsilon Tract",
+    "title":"Epsilon Tract #8",
+    "notes":"“We are not dinosaurs, or plants, but a tree in the jet stream may hold Kraff's true word”.",
+    "order":8,
+    "lat":82.07305902515627,
+    "lng":-119.8388671875,
+    "video":{
+      "start":"2:50",
+      "end":"3:10",
+      "yt_id":"gnuPvliV8T8",
+      "yt_user":"MrVuule"
+    }
+  },
+  {
+    "id":224,
+    "type":"Epsilon Tract",
+    "title":"Epsilon Tract #9",
+    "notes":"“The tallest obelisk of glass and steel holds no comparison to the word of Kraff”.",
+    "order":9,
+    "lat":66.72254132270652,
+    "lng":-125.31005859375,
+    "video":{
+      "start":"3:10",
+      "end":"3:30",
+      "yt_id":"gnuPvliV8T8",
+      "yt_user":"MrVuule"
+    }
+  },
+  {
+    "id":225,
+    "type":"Epsilon Tract",
+    "title":"Epsilon Tract #10",
+    "notes":"“Where they discard their earthly prisons, there you may find the germ of higher civilization”.",
+    "order":10,
+    "lat":69.03321086259241,
+    "lng":-141.383056640625,
+    "video":{
+      "start":"3:30",
+      "yt_id":"gnuPvliV8T8",
+      "yt_user":"MrVuule"
+    }
   }
 ]

@@ -160,6 +160,16 @@ $(function() {
 			type: 'Collectables'
 		},
 		{
+			name: 'Epsilon Car',
+			icon: 'collectable/epsilon-car.png',
+			type: 'Collectables'
+		},
+		{
+			name: 'Epsilon Tract',
+			icon: 'collectable/epsilon-tract.png',
+			type: 'Collectables'
+		},
+		{
 			name: 'Money',
 			icon: 'misc/money.png',
 			type: 'Misc'
