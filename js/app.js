@@ -45,7 +45,7 @@ $(function() {
 	var currentMarker;
 	
 	var assetsUrl = function() {
-		return window.location.host == 'localhost' ? '' : 'https://s3-eu-west-1.amazonaws.com/gtavmap/';
+		return window.location.hostname == 'localhost' ? '' : 'https://s3-eu-west-1.amazonaws.com/gtavmap/';
 	};
 
 	Handlebars.registerHelper('assetsUrl', assetsUrl);
