@@ -1,5 +1,7 @@
 $(function() {
 
+	var showCoordinations = true;
+
 	var $types = $('.types');
 
 	var onResize = function() {
@@ -300,6 +302,32 @@ $(function() {
 		},
 
 		render: function() {
+
+			// Function to update coordination info windows
+		    function updateCoordinationWindow(markerobject){
+		        // Create new info window
+				var infoWindow = new google.maps.InfoWindow;
+
+				// onClick listener
+				google.maps.event.addListener(markerobject, 'click', function(evt){
+					// Set content
+				    infoWindow.setOptions({
+				        content: '<p>' + 'Current Lat: ' + evt.latLng.lat().toFixed(3) + '<br>' + 'Current Lng: ' + evt.latLng.lng().toFixed(3) + '<br>' + 'Zoom Level: ' + map.getZoom() + '</p>'
+				    });
+
+				    // Open the info window
+				    infoWindow.open(map, markerobject);
+				});
+
+				// onDrag listener
+				google.maps.event.addListener(markerobject, 'drag', function(evt){
+					// Set content
+				    infoWindow.setOptions({
+				        content: '<p>' + 'Current Lat: ' + evt.latLng.lat().toFixed(3) + '<br>' + 'Current Lng: ' + evt.latLng.lng().toFixed(3) + '<br>' + 'Zoom Level: ' + map.getZoom() + '</p>'
+				    });
+				});
+			}
+
 			var map = this.map = window.map = new google.maps.Map(this.el, this.mapOptions);
 
 			this.initMapTypes(map, _.keys(this.mapDetails));
@@ -321,6 +349,12 @@ $(function() {
 					position: e.latLng
 				});
 				window.locs.push(marker);
+
+				// Check if coords mode is enabled
+				if (showCoordinations) {
+					// Update/create info window
+					updateCoordinationWindow(marker);
+				};
 			});
 
 			return this;
