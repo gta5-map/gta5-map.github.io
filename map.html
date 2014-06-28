@@ -60,29 +60,6 @@
 		</section>
 	</script>
 
-	<script type="x/template" id="markerPopupTemplate">
-		<div id="info-window" style="max-width:420px;">
-			<span class="header">
-				<h4>{{title}}</h4>
-			</span>
-			<div id="info-body">
-				{{#if notes}}
-					<p>{{notes}}</p>
-				{{/if}}
-				{{#if video}}
-					<iframe width="420" height="315" src="//www.youtube.com/embed/{{video.yt_id}}?theme=light&amp;autoplay=1&amp;autohide=1&amp;modestbranding=1&amp;iv_load_policy=3&amp;rel=0&amp;showinfo=0&amp;loop=1{{#if video.start}}&amp;start={{timestampToSeconds video.start}}{{/if}}{{#if video.end}}&amp;end={{timestampToSeconds video.end}}{{/if}}" frameborder="0" allowfullscreen></iframe>
-					{{#if video.yt_user}}
-						<p>
-							<a href="//www.youtube.com/user/{{video.yt_user}}" style="color:#222;font-size:.8em;float:right;">
-								Video by {{video.yt_user}}
-							</a>
-						</p>
-					{{/if}}
-				{{/if}}
-			</div>
-		</div>
-	</script>
-
 	<script type="x/template" id="markerPopupTemplate2">
 		<div id="info-window" style="max-width:420px;">
 			<span class="header">
