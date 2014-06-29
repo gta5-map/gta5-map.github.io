@@ -709,5 +709,30 @@
         "where":"http://www.reddit.com/r/gtaglitches/comments/29acli/how_to_wall_breach_into_military_watchtower/"
       }
     ]
+  },
+  {
+    "id":44,
+    "type":"Wall breaches",
+    "title":"Ship at Merryweather docks",
+    "notes":"Go to the location as seen below, get aboard the ship, walk towards the back of the ship where there's an overhang. Wace the wall and just jump.",
+    "order":42,
+    "lat":57.160,
+    "lng":-119.861,
+    "credit":[
+      {
+        "what":"found",
+        "who":"/u/bowsereatspeaches",
+        "where":"http://www.reddit.com/r/gtaglitches/comments/29b4xy/just_breached_inside_a_ship_at_the_docks/"
+      }
+    ],
+    "images":[
+      {
+        "id":"1",
+        "headline":"Breached in the ship",
+        "url":"http://i.imgur.com/zPwyyNm.jpg",
+        "author":"/u/bowsereatspeaches",
+        "contact":"http://www.reddit.com/user/bowsereatspeaches"
+      }
+    ]
   }
 ]
