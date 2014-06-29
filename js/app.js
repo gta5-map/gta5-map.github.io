@@ -139,12 +139,13 @@ $(function() {
 			name: 'Wall breaches',
 			icon: 'General/wall-breach.png',
 			type: 'General',
-			enabled: true,
+			enabled: true
 		},
 		{
 			name: 'Rare cars',
 			icon: 'General/cars.png',
-			type: 'General'
+			type: 'General',
+			enabled: true
 		}
 	]);
 
