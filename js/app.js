@@ -136,50 +136,15 @@ $(function() {
 
 	var categories = window.cats = new CategoriesCollection([
 		{
-			name: 'Spaceship Part',
-			icon: 'collectable/spaceship-part.png',
-			type: 'Collectables',
+			name: 'Wall breaches',
+			icon: 'General/wall-breach.png',
+			type: 'General',
 			enabled: true,
 		},
 		{
-			name: 'Letter Scrap',
-			icon: 'collectable/letter-scrap.png',
-			type: 'Collectables'
-		},
-		{
-			name: 'Stunt Jump',
-			icon: 'collectable/stunt-jump.png',
-			type: 'Collectables'
-		},
-		{
-			name: 'Knife Flight',
-			icon: 'collectable/knife-flight.png',
-			type: 'Collectables'
-		},
-		{
-			name: 'Nuclear Waste',
-			icon: 'collectable/nuclear-waste.png',
-			type: 'Collectables'
-		},
-		{
-			name: 'Epsilon Car',
-			icon: 'collectable/epsilon-car.png',
-			type: 'Collectables'
-		},
-		{
-			name: 'Epsilon Tract',
-			icon: 'collectable/epsilon-tract.png',
-			type: 'Collectables'
-		},
-		{
-			name: 'Money',
-			icon: 'misc/money.png',
-			type: 'Misc'
-		},
-		{
-			name: 'Car Spawn',
-			icon: 'pickup/car.png',
-			type: 'Misc'
+			name: 'Rare cars',
+			icon: 'General/cars.png',
+			type: 'General'
 		}
 	]);
 
