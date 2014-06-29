@@ -1,7 +1,7 @@
 [
   {
     "id":1,
-    "type":"Rare cars",
+    "type":"Vehicles",
     "title":"Obey Tailgator",
     "notes":"You can find Michaels story car (Audi A6/A8) on the parking lot of the golf course.",
     "order":1,
@@ -16,7 +16,7 @@
   },
   {
     "id":2,
-    "type":"Rare cars",
+    "type":"Vehicles",
     "title":"Bulldozer",
     "notes":"Located in the quarry in Tataviam Mountains.",
     "order":2,
@@ -752,7 +752,7 @@
   },
   {
     "id":46,
-    "type":"Rare cars",
+    "type":"Vehicles",
     "title":"Ratloader",
     "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
     "order":3,
@@ -767,7 +767,7 @@
   },
   {
     "id":47,
-    "type":"Rare cars",
+    "type":"Vehicles",
     "title":"Sultan",
     "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
     "order":4,
@@ -782,7 +782,7 @@
   },
   {
     "id":48,
-    "type":"Rare cars",
+    "type":"Vehicles",
     "title":"BF Surfer",
     "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
     "order":5,
@@ -797,7 +797,7 @@
   },
   {
     "id":49,
-    "type":"Rare cars",
+    "type":"Vehicles",
     "title":"BF Surfer (with surfboard)",
     "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
     "order":6,
@@ -812,7 +812,7 @@
   },
   {
     "id":50,
-    "type":"Rare cars",
+    "type":"Vehicles",
     "title":"Vapid Bobcat XL",
     "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
     "order":7,
@@ -827,7 +827,7 @@
   },
   {
     "id":51,
-    "type":"Rare cars",
+    "type":"Vehicles",
     "title":"Western Daemon",
     "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
     "order":8,

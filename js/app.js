@@ -142,7 +142,7 @@ $(function() {
 			enabled: true
 		},
 		{
-			name: 'Rare cars',
+			name: 'Vehicles',
 			icon: 'General/cars.png',
 			type: 'General',
 			enabled: true
