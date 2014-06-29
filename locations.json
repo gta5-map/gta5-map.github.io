@@ -734,5 +734,20 @@
         "contact":"http://www.reddit.com/user/bowsereatspeaches"
       }
     ]
+  },
+  {
+    "id":45,
+    "type":"Wall breaches",
+    "title":"Michaels mansion (via garage)",
+    "notes":"Go to the location as seen below, drive your car next to the garage and hop onto it. Climb ontop the garage roof and walk to the little balcony of the main house. Run across the wall towards the balcony and jump to climb it up. Pull out your phone and accept any pending job invite. Back out immedietly and you should spawn inside Michaels mansion.",
+    "order":43,
+    "lat":70.245,
+    "lng":-132.693,
+    "video":{
+      "yt_id":"G0irrD_FGMs",
+      "yt_user":"Solar Glitch",
+      "start":"0:07",
+      "end":"0:45"
+    }
   }
 ]
