@@ -5,17 +5,14 @@ li { list-style: none; }
 .left { float: left; }
 .right { float: right; }
 
-#mapControlWrap .gmnoprint {
-	top: 20px !important;
-}
-
 header {
 	position: absolute;
 	top: 0;
 	left: 0;
 	right: 0;
 	z-index: 2;
-	font-size: 13px;
+	font-size: 19px;
+	height: 28px;
 	padding: 3px 6px;
 	background: rgba(0,0,0,.7);
 	color: white;
@@ -28,6 +25,7 @@ header p {
 header li {
 	display: inline-block;
 	margin-right: 5px;
+	margin-top:4px;
 }
 
 header li:last-child {
@@ -97,7 +95,7 @@ header a.active {
 	top: 0;
 	left: 0;
 	z-index: 2;
-	margin: 30px 0 0 7px;
+	margin: 42px 0 0 7px;
 	padding-bottom: 5px;
 	overflow: scroll;
 	max-height: 702px;
@@ -186,4 +184,8 @@ float: right;
 .types .back {
 	float: left;
 	margin: 0 5px 0 0;
+}
+
+.gmnoprint {
+	margin-top: 40px !important;
 }
