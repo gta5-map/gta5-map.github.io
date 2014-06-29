@@ -28,5 +28,35 @@
       "start":"1:39",
       "end":"2:51"
     }
+  },
+  {
+    "id":3,
+    "type":"Wall breaches",
+    "title":"East LSC bridge",
+    "notes":"Go to the location as seen below. Push the trash bin with your car straight against the wall. Stand on the bin and now just jump and you will be inside and under the bridge. You'll be able to shoot anywhere through it.",
+    "order":3,
+    "lat":66.054,
+    "lng":-117.773,
+    "video":{
+      "yt_id":"llvw8fiGplA",
+      "yt_user":"toffytastic",
+      "start":"0:24",
+      "end":"1:15"
+    }
+  },
+  {
+    "id":4,
+    "type":"Wall breaches",
+    "title":"Bridge in Del Perro",
+    "notes":"Go to the location as seen below. Swim under the bridge and hop up the rail on the left side. Turn left and straight run through the wall.",
+    "order":4,
+    "lat":65.017,
+    "lng":-134.780,
+    "video":{
+      "yt_id":"hhxeFRqApk4",
+      "yt_user":"GTAKIDS",
+      "start":"0:45",
+      "end":"1:00"
+    }
   }
 ]
