@@ -255,7 +255,7 @@
     },
     "credit":[
       {
-        "what":"Founder",
+        "what":"found",
         "who":"NobleThread",
         "where":"http://www.dieselgaming.com/forums/grand-theft-auto-v.39/"
       }
@@ -275,5 +275,439 @@
       "start":"0:10",
       "end":"1:10"
     }
+  },
+  {
+    "id":19,
+    "type":"Wall breaches",
+    "title":"Highway",
+    "notes":"Works the same like \"Bridge in Tataviam Mountains\". Go to the location as seen below. Walk towards the bridge wall. Turn left and walk straight along the wall until you are inside the bridge. Turn around and walk in the other direction until you are fully breached inside the bridge.",
+    "order":17,
+    "lat":65.339,
+    "lng":-111.555,
+    "video":{
+      "yt_id":"fDicikImeuY",
+      "yt_user":"oOGamingForCharityOo",
+      "start":"0:23",
+      "end":"1:10"
+    }
+  },
+  {
+    "id":20,
+    "type":"Wall breaches",
+    "title":"Sandy Shores Store",
+    "notes":"Go to the location as seen below. Walk towards the store right beside the entrance. Jump to get inside the building.",
+    "order":18,
+    "lat":79.122,
+    "lng":-105.403,
+    "video":{
+      "yt_id":"62OBpgnGssw",
+      "yt_user":"oOGamingForCharityOo",
+      "start":"0:23",
+      "end":"0:50"
+    }
+  },
+  {
+    "id":21,
+    "type":"Wall breaches",
+    "title":"FIB Tower",
+    "notes":"Go to the location as seen below. Get a helicopter and fly on top of the building. Get out and walk to the side of the building. Walk downstairs the ladder and turn right. At the end of that platform turn left and walk straight into the wall/border (not on the side with the big FIB logo). You should fall and end up on the next floor. After some seconds the textures should load and you should be inside the FIB building.",
+    "order":19,
+    "lat":66.883,
+    "lng":-123.146,
+    "video":{
+      "yt_id":"VApVSfpLtsE",
+      "yt_user":"Dat Saintsfan",
+      "start":"0:20",
+      "end":"1:25"
+    }
+  },
+  {
+    "id":22,
+    "type":"Wall breaches",
+    "title":"Beach house",
+    "notes":"Go to the location as seen below. Walk behind the house, turn right and sprint into the house.",
+    "order":20,
+    "lat":71.410,
+    "lng":-153.929,
+    "video":{
+      "yt_id":"LlShnWvtHKM",
+      "yt_user":"Im Blood Lust",
+      "start":"0:27",
+      "end":"1:05"
+    }
+  },
+  {
+    "id":23,
+    "type":"Wall breaches",
+    "title":"Below Airport",
+    "notes":"Go to the location as seen below. Walk to the stack of greenish pillars, make your way to the top of them. Walk straight ahead to the little space between them, get in there and run straight into the grey pillars until you glitch into them.",
+    "order":21,
+    "lat":56.170,
+    "lng":-143.438,
+    "video":{
+      "yt_id":"ym7_1hfYUEk",
+      "yt_user":"Im Blood Lust",
+      "start":"0:50",
+      "end":"2:10"
+    }
+  },
+  {
+    "id":24,
+    "type":"Wall breaches",
+    "title":"Meth lab",
+    "notes":"Go to the location as seen below. Back up your car to the wall where the generators are. Hop on your car and shoot out the window on the second floor. Climb up the fan and then climb up inside the window.",
+    "order":22,
+    "lat":78.883,
+    "lng":-110.940,
+    "video":{
+      "yt_id":"ajSwgxc4GVs",
+      "yt_user":"Dat Saintsfan",
+      "start":"0:24",
+      "end":"1:10"
+    }
+  },
+  {
+    "id":25,
+    "type":"Wall breaches",
+    "title":"Vespucci Canals building",
+    "notes":"Go to the location as seen below. Climb over the wall and walk straight into the building.",
+    "order":23,
+    "lat":66.054,
+    "lng":-134.209,
+    "video":{
+      "yt_id":"u2aaX7ON0os",
+      "yt_user":"Optimuh",
+      "start":"0:15",
+      "end":"1:10"
+    }
+  },
+  {
+    "id":26,
+    "type":"Wall breaches",
+    "title":"Vinewood Observatory",
+    "notes":"Go to the location as seen below. Climb up the ladder and turn left. Run to the gap between the two roof elements. Try to fall between them to breach into the building.",
+    "order":24,
+    "lat":71.577,
+    "lng":-118.136,
+    "video":{
+      "yt_id":"thOyjDVK9PE",
+      "yt_user":"Optimuh",
+      "start":"0:15",
+      "end":"0:50"
+    }
+  },
+  {
+    "id":26,
+    "type":"Wall breaches",
+    "title":"Dollar Pills",
+    "notes":"Go to the location as seen below. Climb on top of the yellow cloth bin and jump again to get inside the building.",
+    "order":24,
+    "lat":77.116,
+    "lng":-118.806,
+    "video":{
+      "yt_id":"tllv4nBwpJE",
+      "yt_user":"Wify142",
+      "start":"0:30",
+      "end":"1:10"
+    }
+  },
+  {
+    "id":27,
+    "type":"Wall breaches",
+    "title":"City Hall",
+    "notes":"Go to the location as seen below and go up the stairs to Mike's left in the picture. Follow the path until you reach an intersection. Your going to want to take a left. Like before, keep following the path until you you find the corner. It should be on the right hand side if you went the way I told you. All you have to do now, is walk into it. Do not continually walk into the wall, let go of the left stick once you are behind the little rail thingy. If you did it correctly, you should slide down the wall, into a little room. The invisible wall to Mike's left is bullet proof, but the one in front of him you can shoot through. The only way to get out of this little room is to jump into the void of death (behind mike out of frame).",
+    "order":25,
+    "lat":69.244,
+    "lng":-130.759,
+    "video":{
+      "yt_id":"NpwsV0qhGVw",
+      "yt_user":"darktroop6",
+      "start":"0:25",
+      "end":"3:20"
+    },
+    "credit":[
+      {
+        "what":"found",
+        "who":"/u/darktroop6",
+        "where":"http://www.reddit.com/r/gtaglitches/comments/20ih35/glitch_new_wallbreach_patch_111/"
+      }
+    ]
+  },
+  {
+    "id":28,
+    "type":"Wall breaches",
+    "title":"Humane Laboratory",
+    "notes":"Go to the location as seen below. Walk upstairs and turn left. Run straight at the end of this to the generator. Hop on the generator and walk to the three blue pipes. Pull out your phone and accept any pending job invite. Back out immedietly and you should spawn inside the laboratory.",
+    "order":26,
+    "lat":79.157,
+    "lng":-90.110,
+    "video":{
+      "yt_id":"GVxNv9Bjcoo",
+      "yt_user":"Carrythxd",
+      "start":"0:05",
+      "end":"1:10"
+    }
+  },
+  {
+    "id":29,
+    "type":"Wall breaches",
+    "title":"Flecca Bank",
+    "notes":"Go to the location as seen below. Get a decent sized vehicle and park it infront of the bank. Hop on it and climb up the roof of the bank. Pull out your phone and accept any pending job invite. Back out immedietly and you should spawn inside the bank.",
+    "order":27,
+    "lat":77.032,
+    "lng":-113.269,
+    "video":{
+      "yt_id":"XFRFENhFM7E",
+      "yt_user":"KingCodShots",
+      "start":"1:45",
+      "end":"2:50"
+    }
+  },
+  {
+    "id":30,
+    "type":"Wall breaches",
+    "title":"LSPD police station",
+    "notes":"Go to the location as seen below. Walk over the shrub and stand besides the building wall. Pull out your phone and accept any pending job invite. Back out immedietly and you should spawn inside the police station.",
+    "order":28,
+    "lat":66.161,
+    "lng":-120.388,
+    "video":{
+      "yt_id":"QOvOWj4bWDo",
+      "yt_user":"Carrythxd",
+      "start":"0:05",
+      "end":"1:00"
+    }
+  },
+  {
+    "id":30,
+    "type":"Wall breaches",
+    "title":"Floyd's house",
+    "notes":"Go to the location as seen below. Walk upstairs and climb up the root. Pull out your phone and accept any pending job invite. Back out immedietly and you should spawn inside Floyd's house.",
+    "order":28,
+    "lat":63.904,
+    "lng":-135.879,
+    "video":{
+      "yt_id":"jSZoLF4mXhQ",
+      "yt_user":"Carrythxd",
+      "start":"0:03",
+      "end":"0:40"
+    }
+  },
+  {
+    "id":31,
+    "type":"Wall breaches",
+    "title":"Lester's house",
+    "notes":"Go to the location as seen below. Go to the backside of the house and try to jump on top the AC fan. Position yourself in the middle of the root. Pull out your phone and accept any pending job invite. Back out immedietly and you should spawn inside Lester's house.",
+    "order":29,
+    "lat":62.885,
+    "lng":-112.039,
+    "video":{
+      "yt_id":"1H0BWTBBhAM",
+      "yt_user":"DomisLive",
+      "start":"0:16",
+      "end":"1:00"
+    }
+  },
+  {
+    "id":32,
+    "type":"Wall breaches",
+    "title":"Strip Club office",
+    "notes":"Go to the location as seen below. Climb up the ladder and face the metal box on top of it. Pull out your phone and accept any pending job invite. Back out immedietly and you should spawn inside the Strip Club.",
+    "order":30,
+    "lat":64.914,
+    "lng":-123.376,
+    "video":{
+      "yt_id":"Dt-aPNYuA9s",
+      "yt_user":"DomisLive",
+      "start":"0:30",
+      "end":"1:10"
+    }
+  },
+  {
+    "id":32,
+    "type":"Wall breaches",
+    "title":"Trevors torture room",
+    "notes":"Go to the location as seen below. Climb up the ladder and face wall on the left jump on top the second roof. Walk in the middle of the roof and pull out your phone and accept any pending job invite. Back out immedietly and you should spawn inside the room.",
+    "order":30,
+    "lat":60.765,
+    "lng":-123.102,
+    "video":{
+      "yt_id":"lpdmTNho1c8",
+      "yt_user":"Dat Saintsfan",
+      "start":"0:18",
+      "end":"1:00"
+    }
+  },
+  {
+    "id":33,
+    "type":"Wall breaches",
+    "title":"Franklins mansion",
+    "notes":"Go to the location as seen below. Drive your car under the porch on the right if you are facing the mansion. Hop on top of it and climb up the roof. Pull out your phone and accept any pending job invite. Back out immedietly and you should spawn inside Franklins mansion.",
+    "order":31,
+    "lat":71.427,
+    "lng":-124.629,
+    "video":{
+      "yt_id":"UGQsnApgSMs",
+      "yt_user":"Optimuh",
+      "start":"0:10",
+      "end":"0:55"
+    }
+  },
+  {
+    "id":34,
+    "type":"Wall breaches",
+    "title":"Michaels mansion",
+    "notes":"Go to the location as seen below. Use a helicopter to get ontop of the roof. Walk in the middle, pull out your phone and accept any pending job invite. Back out immedietly and you should spawn inside Micheals mansion.",
+    "order":32,
+    "lat":70.237,
+    "lng":-132.517,
+    "video":{
+      "yt_id":"lprii2ufV5w",
+      "yt_user":"Trouble",
+      "start":"0:10",
+      "end":"0:40"
+    }
+  },
+  {
+    "id":35,
+    "type":"Wall breaches",
+    "title":"Space Docker garage",
+    "notes":"Go to the location as seen below. Get a decent sized vehicle and drive it against the trailer. Get on top and climb on the roof. Pull out your phone and accept any pending job invite. Back out immedietly and you should spawn inside the Space Docker garage.",
+    "order":33,
+    "lat":76.756,
+    "lng":-102.063,
+    "video":{
+      "yt_id":"Lgdy3CJNg58",
+      "yt_user":"Optimuh",
+      "start":"0:10",
+      "end":"0:55"
+    }
+  },
+  {
+    "id":36,
+    "type":"Wall breaches",
+    "title":"Recycling Plant",
+    "notes":"Go to the location as seen below. Climb up the ladders and walk in the middle of the roof. Pull out your phone and accept any pending job invite. Back out immedietly and you should spawn inside the Space Docker garage.",
+    "order":34,
+    "lat":63.332,
+    "lng":-130.386,
+    "video":{
+      "yt_id":"A4CU6bDjy9Q",
+      "yt_user":"Optimuh",
+      "start":"0:32",
+      "end":"1:00"
+    }
+  },
+  {
+    "id":37,
+    "type":"Wall breaches",
+    "title":"Ambulance",
+    "notes":"Go to the location as seen below. Get in a vehicle than can hold you in the back like the van in the video. Get in the back and let your friend drive backwards against it. Once you are against the wall, hit eject to get out of the van and breach inside of the ambulance.",
+    "order":35,
+    "lat":67.601,
+    "lng":-121.948,
+    "video":{
+      "yt_id":"mYVnLJvlz6o",
+      "yt_user":"CodFlaws",
+      "start":"0:05",
+      "end":"1:00"
+    }
+  },
+  {
+    "id":38,
+    "type":"Wall breaches",
+    "title":"Central LSC",
+    "notes":"Go to the location as seen below. Get in a vehicle than can hold you in the back like the van in the video. Get in the back and let your friend drive backwards against it. Once you are against the wall, hit eject to get out of the van and breach inside of the LSC building.",
+    "order":36,
+    "lat":69.221,
+    "lng":-127.749,
+    "video":{
+      "yt_id":"G9vwDTkpXXc",
+      "yt_user":"Fed X Gaming",
+      "start":"1:20",
+      "end":"1:55"
+    }
+  },
+  {
+    "id":39,
+    "type":"Wall breaches",
+    "title":"Rockford Plaza",
+    "notes":"Go to the location as seen below. Get in a vehicle than can hold you in the back like the van in the video. Get in the back and let your friend drive backwards against it. Once you are against the wall, hit eject to get out of the van and breach inside the building.",
+    "order":37,
+    "lat":69.434,
+    "lng":-126.958,
+    "video":{
+      "yt_id":"N0GsFD02qPs",
+      "yt_user":"Fed X Gaming",
+      "start":"0:15",
+      "end":"1:50"
+    }
+  },
+  {
+    "id":40,
+    "type":"Wall breaches",
+    "title":"Martins mansion",
+    "notes":"Go to the location as seen below. Get the free van from the beach bum DLC and let your friend pick you up with a Cargobob. Once inside tell your friend to drop you on the balcony deck thingy. Get in the back and let your friend drive backwards against it. Once you are against the wall, hit eject to get out of the van and breach inside the building.",
+    "order":38,
+    "lat":71.736,
+    "lng":-134.517,
+    "video":{
+      "yt_id":"XSOfbP8jf5k",
+      "yt_user":"Dynasty",
+      "start":"0:20",
+      "end":"1:25"
+    }
+  },
+  {
+    "id":41,
+    "type":"Wall breaches",
+    "title":"Helicopter under map",
+    "notes":"Go to the location as seen below. Get into a helicopter and fly towards the green and white building. Fly low enought to get between the gab on the white side of the building. Once you are there, fly straight up to get into the second part of the building. Fly towards the middle and then down the ground below the map.",
+    "order":39,
+    "lat":68.899,
+    "lng":-133.396,
+    "video":{
+      "yt_id":"gAsNdxYISdg",
+      "yt_user":"TheLuckyNoob",
+      "start":"0:04",
+      "end":"0:55"
+    }
+  },
+  {
+    "id":42,
+    "type":"Wall breaches",
+    "title":"Casino",
+    "notes":"Go to the location as seen below. Get a Sanchez motor-bike and go the right corner of the building. Drive between the buildings and try to fall off to breach into the Casino.",
+    "order":40,
+    "lat":69.676,
+    "lng":-115.587,
+    "video":{
+      "yt_id":"a6Fb9wvjkew",
+      "yt_user":"Dynasty",
+      "start":"0:04",
+      "end":"0:40"
+    }
+  },
+  {
+    "id":43,
+    "type":"Wall breaches",
+    "title":"Military base tower",
+    "notes":"Withdraw all your money from your bank account. Go to Lester and demand a \"Blind Eye\". Go to the location as seen below, walk against the right side of the green door of the tower and go to Dynasty 8 website. Pretent you would buy a property, when the alert pops up, press A and immedietly jump inside the door.",
+    "order":41,
+    "lat":77.698,
+    "lng":-140.493,
+    "video":{
+      "yt_id":"DxzPTovofrY",
+      "yt_user":"TechnoDucky",
+      "start":"1:00",
+      "end":"1:40"
+    },
+    "credit":[
+      {
+        "what":"found",
+        "who":"/u/TechnoDucky",
+        "where":"http://www.reddit.com/r/gtaglitches/comments/29acli/how_to_wall_breach_into_military_watchtower/"
+      }
+    ]
   }
 ]
