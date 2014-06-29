@@ -839,5 +839,95 @@
       "start":"5:28",
       "end":"5:55"
     }
+  },
+  {
+    "id":52,
+    "type":"Vehicles",
+    "title":"Ocelot Jackal",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":9,
+    "lat":68.069,
+    "lng":-135.242,
+    "video":{
+      "yt_id":"PdY1flTk1RM",
+      "yt_user":"Dat Saintsfan",
+      "start":"0:45",
+      "end":"1:05"
+    }
+  },
+  {
+    "id":53,
+    "type":"Vehicles",
+    "title":"Youga Van",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":10,
+    "lat":80.216,
+    "lng":-135.945,
+    "video":{
+      "yt_id":"PdY1flTk1RM",
+      "yt_user":"Dat Saintsfan",
+      "start":"1:30",
+      "end":"1:55"
+    }
+  },
+  {
+    "id":54,
+    "type":"Vehicles",
+    "title":"Karin Intruder",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":11,
+    "lat":65.091,
+    "lng":-130.474,
+    "video":{
+      "yt_id":"PdY1flTk1RM",
+      "yt_user":"Dat Saintsfan",
+      "start":"2:25",
+      "end":"2:40"
+    }
+  },
+  {
+    "id":55,
+    "type":"Vehicles",
+    "title":"Karin Intruder #2",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":12,
+    "lat":62.900,
+    "lng":-112.236,
+    "video":{
+      "yt_id":"PdY1flTk1RM",
+      "yt_user":"Dat Saintsfan",
+      "start":"2:50",
+      "end":"3:25"
+    }
+  },
+  {
+    "id":55,
+    "type":"Vehicles",
+    "title":"Karin BeeJay XL",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":13,
+    "lat":76.750,
+    "lng":-106.611,
+    "video":{
+      "yt_id":"PdY1flTk1RM",
+      "yt_user":"Dat Saintsfan",
+      "start":"3:30",
+      "end":"4:11"
+    }
+  },
+  {
+    "id":56,
+    "type":"Vehicles",
+    "title":"Ubermacht Sentinel XS",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":14,
+    "lat":63.396,
+    "lng":-137.164,
+    "video":{
+      "yt_id":"PdY1flTk1RM",
+      "yt_user":"Dat Saintsfan",
+      "start":"4:30",
+      "end":"5:10"
+    }
   }
 ]
