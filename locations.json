@@ -749,5 +749,95 @@
       "start":"0:07",
       "end":"0:45"
     }
+  },
+  {
+    "id":46,
+    "type":"Rare cars",
+    "title":"Ratloader",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":3,
+    "lat":79.233,
+    "lng":-107.534,
+    "video":{
+      "yt_id":"3geCEZ1SMf4",
+      "yt_user":"Dat Saintsfan",
+      "start":"1:35",
+      "end":"1:55"
+    }
+  },
+  {
+    "id":47,
+    "type":"Rare cars",
+    "title":"Sultan",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":4,
+    "lat":76.893,
+    "lng":-106.589,
+    "video":{
+      "yt_id":"3geCEZ1SMf4",
+      "yt_user":"Dat Saintsfan",
+      "start":"2:35",
+      "end":"3:25"
+    }
+  },
+  {
+    "id":48,
+    "type":"Rare cars",
+    "title":"BF Surfer",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":5,
+    "lat":61.856,
+    "lng":-136.121,
+    "video":{
+      "yt_id":"3geCEZ1SMf4",
+      "yt_user":"Dat Saintsfan",
+      "start":"3:50",
+      "end":"4:05"
+    }
+  },
+  {
+    "id":49,
+    "type":"Rare cars",
+    "title":"BF Surfer (with surfboard)",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":6,
+    "lat":67.102,
+    "lng":-97.646,
+    "video":{
+      "yt_id":"3geCEZ1SMf4",
+      "yt_user":"Dat Saintsfan",
+      "start":"4:10",
+      "end":"4:40"
+    }
+  },
+  {
+    "id":50,
+    "type":"Rare cars",
+    "title":"Vapid Bobcat XL",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":7,
+    "lat":55.003,
+    "lng":-114.741,
+    "video":{
+      "yt_id":"3geCEZ1SMf4",
+      "yt_user":"Dat Saintsfan",
+      "start":"4:50",
+      "end":"5:20"
+    }
+  },
+  {
+    "id":51,
+    "type":"Rare cars",
+    "title":"Western Daemon",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":8,
+    "lat":69.760,
+    "lng":-138.164,
+    "video":{
+      "yt_id":"3geCEZ1SMf4",
+      "yt_user":"Dat Saintsfan",
+      "start":"5:28",
+      "end":"5:55"
+    }
   }
 ]
