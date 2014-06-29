@@ -70,7 +70,8 @@
 					<p>{{notes}}</p>
 				{{/if}}
 				{{#if video}}
-					<iframe width="420" height="315" src="//www.youtube.com/apiplayer?version=3&video_id={{video.yt_id}}&amp;playlist={{video.yt_id}}&amp;autoplay=1&amp;autohide=1&amp;modestbranding=1&amp;iv_load_policy=3&amp;rel=0&amp;showinfo=0&amp;loop=1{{#if video.start}}&amp;start={{timestampToSeconds video.start}}{{/if}}{{#if video.end}}&amp;end={{timestampToSeconds video.end}}{{/if}}" frameborder="0" allowfullscreen></iframe>
+
+					<iframe width="420" height="315" src="https://youtube.googleapis.com/v/{{video.yt_id}}{{#if video.start}}?start={{timestampToSeconds video.start}}{{/if}}{{#if video.end}}&amp;end={{timestampToSeconds video.end}}{{/if}}&amp;version=3&amp;autoplay=1&amp;modestBranding=1&amp;rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 					{{#if video.yt_user}}
 						<p>
 							<a href="//www.youtube.com/user/{{video.yt_user}}" style="color:#222;font-size:.8em;float:right;" target="_blank">
