@@ -34,7 +34,7 @@
     "type":"Wall breaches",
     "title":"East LSC bridge",
     "notes":"Go to the location as seen below. Push the trash bin with your car straight against the wall. Stand on the bin and now just jump and you will be inside and under the bridge. You'll be able to shoot anywhere through it.",
-    "order":3,
+    "order":1,
     "lat":66.054,
     "lng":-117.773,
     "video":{
@@ -49,7 +49,7 @@
     "type":"Wall breaches",
     "title":"Bridge in Del Perro",
     "notes":"Go to the location as seen below. Swim under the bridge and hop up the rail on the left side. Turn left and straight run through the wall.",
-    "order":4,
+    "order":2,
     "lat":65.017,
     "lng":-134.780,
     "video":{
@@ -57,6 +57,223 @@
       "yt_user":"GTAKIDS",
       "start":"0:45",
       "end":"1:00"
+    }
+  },
+  {
+    "id":5,
+    "type":"Wall breaches",
+    "title":"Kayton Skyscraper",
+    "notes":"Go to the location as seen below. Get into a helicopter and fly about 15 meters above the ground. Fly straigt ahead the tower to wall breach. If you are inside just fly down and land your helicopter.",
+    "order":3,
+    "lat":67.580,
+    "lng":-132.188,
+    "video":{
+      "yt_id":"YtjnGkGeWzM",
+      "yt_user":"KingCodShots",
+      "start":"0:33",
+      "end":"1:00"
+    }
+  },
+  {
+    "id":6,
+    "type":"Wall breaches",
+    "title":"Beach Store",
+    "notes":"Go to the location as seen below. Turn to the open garage and drive straight throgh the wall. Note: during day time you need an bicycle because there are boxes that prevent you from entering the garage!",
+    "order":4,
+    "lat":63.966,
+    "lng":-136.527,
+    "video":{
+      "yt_id":"ByP1eT-1dDw",
+      "yt_user":"Fed X Gaming",
+      "start":"0:22",
+      "end":"1:00"
+    }
+  },
+  {
+    "id":7,
+    "type":"Wall breaches",
+    "title":"Eclipse Tower",
+    "notes":"Go to the location as seen below with a decent siced vehicle. Open your phone and call Simeon. Once you see the \"Request a Job Invite\" HUD, do not press anything. Drive your truck to any corner of the garage door, get out, jump on top of the truck and jump inside the building.",
+    "order":5,
+    "lat":70.609,
+    "lng":-132.341,
+    "video":{
+      "yt_id":"NH1ZBUs76Rs",
+      "yt_user":"Fed X Gaming",
+      "start":"0:25",
+      "end":"1:06"
+    }
+  },
+  {
+    "id":8,
+    "type":"Wall breaches",
+    "title":"Parking lot in San Andreas",
+    "notes":"Go to the location as seen below. Turn to the building, hop over the shrub, move about ten more meters and turn to the left wall. Jump to get inside the parking lot.",
+    "order":6,
+    "lat":70.096,
+    "lng":-126.552,
+    "video":{
+      "yt_id":"NH1ZBUs76Rs",
+      "yt_user":"Fed X Gaming",
+      "start":"1:55",
+      "end":"2:40"
+    }
+  },
+  {
+    "id":9,
+    "type":"Wall breaches",
+    "title":"Insurance store in San Andreas",
+    "notes":"Go to the location as seen below. Walk to the entrance door and trun to the wall. Jump to get inside the building.",
+    "order":7,
+    "lat":69.806,
+    "lng":-125.563,
+    "video":{
+      "yt_id":"NH1ZBUs76Rs",
+      "yt_user":"Fed X Gaming",
+      "start":"3:08",
+      "end":"3:40"
+    }
+  },
+  {
+    "id":10,
+    "type":"Wall breaches",
+    "title":"Garage in San Andreas",
+    "notes":"Go to the location as seen below. Get into a decent sized vehicle and park it infront of the garage. Hop on it and jump to get inside the building.",
+    "order":8,
+    "lat":68.564,
+    "lng":-124.541,
+    "video":{
+      "yt_id":"o8BPUZe65_o",
+      "yt_user":"Fed X Gaming",
+      "start":"0:25",
+      "end":"1:20"
+    }
+  },
+  {
+    "id":11,
+    "type":"Wall breaches",
+    "title":"Residence near LSPD",
+    "notes":"Go to the location as seen below. Turn around to the red residence house. Hop over the gate, run to the backyard, go upstairs to the second floor. Turn left to the red pillar and jump.",
+    "order":9,
+    "lat":66.355,
+    "lng":-135.088,
+    "video":{
+      "yt_id":"o8BPUZe65_o",
+      "yt_user":"Fed X Gaming",
+      "start":"1:35",
+      "end":"2:35"
+    }
+  },
+  {
+    "id":12,
+    "type":"Wall breaches",
+    "title":"FIB tower",
+    "notes":"Go to the location as seen below. Walk to the entrance door and trun to the wall. Jump to get inside the building.",
+    "order":10,
+    "lat":67.012,
+    "lng":-123.486,
+    "video":{
+      "yt_id":"o8BPUZe65_o",
+      "yt_user":"Fed X Gaming",
+      "start":"3:30",
+      "end":"4:40"
+    }
+  },
+  {
+    "id":13,
+    "type":"Parking garage",
+    "title":"FIB Tower",
+    "notes":"Go to the location as seen below. Drive into the wall about one meter besides the electricity box.",
+    "order":11,
+    "lat":66.710,
+    "lng":-128.112,
+    "video":{
+      "yt_id":"3Jerg8fknik",
+      "yt_user":"Fed X Gaming",
+      "start":"0:25",
+      "end":"1:00"
+    }
+  },
+  {
+    "id":14,
+    "type":"Wall breaches",
+    "title":"Shrub near Eclipse tower",
+    "notes":"Go to the location as seen below. Walk to the pillar and jump to get into the shrub.",
+    "order":12,
+    "lat":70.580,
+    "lng":-132.528,
+    "video":{
+      "yt_id":"3Jerg8fknik",
+      "yt_user":"Fed X Gaming",
+      "start":"1:35",
+      "end":"2:25"
+    }
+  },
+  {
+    "id":15,
+    "type":"Wall breaches",
+    "title":"Bridge in Tataviam Mountains",
+    "notes":"Go to the location as seen below. Walk towards the bridge wall. Turn right and walk straight along the wall until you are inside the bridge. Turn around and walk in the other direction until you are fully breached inside the bridge.",
+    "order":13,
+    "lat":71.103,
+    "lng":-99.163,
+    "video":{
+      "yt_id":"3Jerg8fknik",
+      "yt_user":"Fed X Gaming",
+      "start":"3:00",
+      "end":"4:00"
+    }
+  },
+  {
+    "id":16,
+    "type":"Wall breaches",
+    "title":"Rockford Plaza",
+    "notes":"Go to the location as seen below. Park your car against the railing. Hop onto your roof, run and jump into the wall.",
+    "order":14,
+    "lat":69.100,
+    "lng":-127.090,
+    "video":{
+      "yt_id":"neG9BXSi49E",
+      "yt_user":"toffytastic",
+      "start":"0:20",
+      "end":"1:10"
+    }
+  },
+  {
+    "id":17,
+    "type":"Wall breaches",
+    "title":"Example of \"Breach anywhere\" method",
+    "notes":"Go to the location as seen below. Park your car against the railing. Hop onto your roof, run and jump into the wall.",
+    "order":15,
+    "lat":68.609,
+    "lng":-122.454,
+    "video":{
+      "yt_id":"egTdSYyLA94",
+      "yt_user":"GamerTutorials",
+      "start":"0:20",
+      "end":"1:30"
+    },
+    "credit":[
+      {
+        "what":"Founder",
+        "who":"NobleThread",
+        "where":"http://www.dieselgaming.com/forums/grand-theft-auto-v.39/"
+      }
+    ]
+  },
+  {
+    "id":18,
+    "type":"Wall breaches",
+    "title":"Industrial building",
+    "notes":"Go to the location as seen below. Climb up the ladder, run across the roof and jump onto the roof of the building next to it. Run at the end of the roof to the left corner. Once you're there you'll fall through the roof.",
+    "order":16,
+    "lat":67.127,
+    "lng":-117.114,
+    "video":{
+      "yt_id":"ROiu8EqnSYg",
+      "yt_user":"Danni",
+      "start":"0:10",
+      "end":"1:10"
     }
   }
 ]
