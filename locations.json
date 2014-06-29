@@ -1034,5 +1034,50 @@
       "start":"7:25",
       "end":"8:00"
     }
+  },
+  {
+    "id":64,
+    "type":"Vehicles",
+    "title":"Albani Manana",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":22,
+    "lat":62.855,
+    "lng":-125.046,
+    "video":{
+      "yt_id":"rz-3qCaHbiQ",
+      "yt_user":"Dat Saintsfan",
+      "start":"1:15",
+      "end":"2:10"
+    }
+  },
+  {
+    "id":65,
+    "type":"Vehicles",
+    "title":"Declasse Voodoo",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":23,
+    "lat":79.163,
+    "lng":-109.863,
+    "video":{
+      "yt_id":"rz-3qCaHbiQ",
+      "yt_user":"Dat Saintsfan",
+      "start":"2:25",
+      "end":"2:38"
+    }
+  },
+  {
+    "id":66,
+    "type":"Vehicles",
+    "title":"Declasse Rancher XL",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":24,
+    "lat":56.487,
+    "lng":-143.152,
+    "video":{
+      "yt_id":"rz-3qCaHbiQ",
+      "yt_user":"Dat Saintsfan",
+      "start":"3:00",
+      "end":"3:38"
+    }
   }
 ]
