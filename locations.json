@@ -1079,5 +1079,65 @@
       "start":"3:00",
       "end":"3:38"
     }
+  },
+  {
+    "id":67,
+    "type":"Vehicles",
+    "title":"Western Bagger",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":25,
+    "lat":69.870,
+    "lng":-138.065,
+    "video":{
+      "yt_id":"YCI8IYEimsg",
+      "yt_user":"Dat Saintsfan",
+      "start":"0:35",
+      "end":"1:05"
+    }
+  },
+  {
+    "id":68,
+    "type":"Vehicles",
+    "title":"Benefactor Schafter",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":26,
+    "lat":70.002,
+    "lng":-138.109,
+    "video":{
+      "yt_id":"YCI8IYEimsg",
+      "yt_user":"Dat Saintsfan",
+      "start":"1:10",
+      "end":"1:30"
+    }
+  },
+  {
+    "id":69,
+    "type":"Vehicles",
+    "title":"Principe Nemesis",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":27,
+    "lat":66.522,
+    "lng":-131.331,
+    "video":{
+      "yt_id":"YCI8IYEimsg",
+      "yt_user":"Dat Saintsfan",
+      "start":"2:10",
+      "end":"2:40"
+    }
+  },
+  {
+    "id":70,
+    "type":"Vehicles",
+    "title":"Duneloader",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":28,
+    "lat":77.518,
+    "lng":-123.223,
+    "video":{
+      "yt_id":"YCI8IYEimsg",
+      "yt_user":"Dat Saintsfan",
+      "start":"2:53",
+      "end":"4:10"
+    }
   }
 ]
