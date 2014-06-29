@@ -929,5 +929,110 @@
       "start":"4:30",
       "end":"5:10"
     }
+  },
+  {
+    "id":57,
+    "type":"Vehicles",
+    "title":"Mariachi",
+    "notes":"Go to the location as seen below _at 19:00_. Drive down the hill and with a bit of luck you can catch the car.",
+    "order":15,
+    "lat":80.672,
+    "lng":-133.901,
+    "video":{
+      "yt_id":"br0eaAMILh0",
+      "yt_user":"Dat Saintsfan",
+      "start":"1:10",
+      "end":"3:20"
+    }
+  },
+  {
+    "id":58,
+    "type":"Vehicles",
+    "title":"Ocelot F620",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":16,
+    "lat":66.399,
+    "lng":-140.955,
+    "video":{
+      "yt_id":"br0eaAMILh0",
+      "yt_user":"Dat Saintsfan",
+      "start":"3:21",
+      "end":"4:00"
+    }
+  },
+  {
+    "id":59,
+    "type":"Vehicles",
+    "title":"Vapid Peyote",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":17,
+    "lat":63.253,
+    "lng":-126.343,
+    "video":{
+      "yt_id":"br0eaAMILh0",
+      "yt_user":"Dat Saintsfan",
+      "start":"4:15",
+      "end":"5:00"
+    }
+  },
+  {
+    "id":60,
+    "type":"Vehicles",
+    "title":"Albani Primo",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":18,
+    "lat":55.091,
+    "lng":-138.845,
+    "video":{
+      "yt_id":"br0eaAMILh0",
+      "yt_user":"Dat Saintsfan",
+      "start":"5:10",
+      "end":"5:40"
+    }
+  },
+  {
+    "id":61,
+    "type":"Vehicles",
+    "title":"Cheval Picador",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":19,
+    "lat":61.575,
+    "lng":-112.544,
+    "video":{
+      "yt_id":"br0eaAMILh0",
+      "yt_user":"Dat Saintsfan",
+      "start":"6:00",
+      "end":"6:30"
+    }
+  },
+  {
+    "id":62,
+    "type":"Vehicles",
+    "title":"Hearse",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":20,
+    "lat":68.633,
+    "lng":-140.669,
+    "video":{
+      "yt_id":"br0eaAMILh0",
+      "yt_user":"Dat Saintsfan",
+      "start":"6:40",
+      "end":"7:15"
+    }
+  },
+  {
+    "id":63,
+    "type":"Vehicles",
+    "title":"Benefactor Surano",
+    "notes":"Go to the location as seen below. With a bit of luck it will spawn there.",
+    "order":20,
+    "lat":73.904,
+    "lng":-132.429,
+    "video":{
+      "yt_id":"br0eaAMILh0",
+      "yt_user":"Dat Saintsfan",
+      "start":"7:25",
+      "end":"8:00"
+    }
   }
 ]
