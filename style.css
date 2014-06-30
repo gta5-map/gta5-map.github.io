@@ -195,3 +195,25 @@ float: right;
 html { height: 100% }
 body { height: 100%; margin: 0; padding: 0 }
 #map { height: 100% }
+
+/* 
+ * Mobile devices (iOS)
+ */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (max-device-width: 480px) { 
+	.right {
+		display: none;
+	}
+
+	.types {
+		opacity: 0.75;
+	}
+
+	.gm-style-mtc {
+		margin-top: 36px !important;
+	}
+
+	.gm-style-mtc div {
+		padding: 0px 2px 0px 2px !important;
+	}
+}
