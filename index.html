@@ -76,7 +76,7 @@
 					<div class="video-{{id}}">
 						<h4>Video</h4>
 						<div class="youtubewrapper">
-							<iframe width="100%" src="https://youtube.googleapis.com/v/{{video.yt_id}}{{#if video.start}}?start={{timestampToSeconds video.start}}{{/if}}{{#if video.end}}&amp;end={{timestampToSeconds video.end}}{{/if}}&amp;version=3&amp;autoplay=1&amp;modestBranding=1&amp;rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+							<iframe width="100%" src="//www.youtube.com/embed/{{video.yt_id}}?theme=light&amp;autoplay=1&amp;autohide=1&amp;modestbranding=1&amp;iv_load_policy=3&amp;rel=0&amp;showinfo=0&amp;loop=1{{#if video.start}}&amp;start={{timestampToSeconds video.start}}{{/if}}{{#if video.end}}&amp;end={{timestampToSeconds video.end}}{{/if}}" frameborder="0" allowfullscreen></iframe>
 						</div>
 						{{#if video.yt_user}}
 							<p>
