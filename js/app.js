@@ -65,7 +65,7 @@ $(function() {
 				position: new google.maps.LatLng(this.get('lat'), this.get('lng')),
 				icon: {
 					url: assetsUrl()+'icons/'+categories.getIcon(this.get('type')),
-					scaledSize: new google.maps.Size(22, 22),
+					scaledSize: new google.maps.Size(32, 37),
 				}
 			});
 
