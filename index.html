@@ -69,11 +69,12 @@
 			</span>
 			<div id="info-body">
 				{{#if notes}}
-					<h4>Notes</h4>
+					<br>
 					<p>{{notes}}</p>
 				{{/if}}
 				{{#if video}}
 					<div class="video-{{id}}">
+						<br>
 						<h4>Video</h4>
 						<div class="youtubewrapper">
 							<iframe width="100%" src="//www.youtube.com/embed/{{video.yt_id}}?theme=light&amp;autoplay=1&amp;autohide=1&amp;modestbranding=1&amp;iv_load_policy=3&amp;rel=0&amp;showinfo=0&amp;loop=1{{#if video.start}}&amp;start={{timestampToSeconds video.start}}{{/if}}{{#if video.end}}&amp;end={{timestampToSeconds video.end}}{{/if}}" frameborder="0" allowfullscreen></iframe>
@@ -88,6 +89,7 @@
 					</div>
 				{{/if}}
 				{{#if images}}
+					<br>
 		     		<h4>Images</h4>
 				{{/if}}
 				{{#each images}}
