@@ -417,9 +417,17 @@ $(function() {
 			// 	}
 			// }
 			// else {
+
 				var infoWindow = new google.maps.InfoWindow({
 					content: this.popupTemplate(location.toJSON())
 				});
+
+				if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+				    infoWindow.setOptions({
+				        maxWidth: 180
+				    });
+				}
+
 				infoWindow.open(this.map, location.get('marker'));
 
 				this.closePopupLocation();
