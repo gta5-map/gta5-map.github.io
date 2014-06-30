@@ -75,7 +75,9 @@
 				{{#if video}}
 					<div class="video-{{id}}">
 						<h4>Video</h4>
-						<iframe width="420" height="315" src="https://youtube.googleapis.com/v/{{video.yt_id}}{{#if video.start}}?start={{timestampToSeconds video.start}}{{/if}}{{#if video.end}}&amp;end={{timestampToSeconds video.end}}{{/if}}&amp;version=3&amp;autoplay=1&amp;modestBranding=1&amp;rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+						<div class="youtubewrapper">
+							<iframe width="100%" src="https://youtube.googleapis.com/v/{{video.yt_id}}{{#if video.start}}?start={{timestampToSeconds video.start}}{{/if}}{{#if video.end}}&amp;end={{timestampToSeconds video.end}}{{/if}}&amp;version=3&amp;autoplay=1&amp;modestBranding=1&amp;rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+						</div>
 						{{#if video.yt_user}}
 							<p>
 								<a href="//www.youtube.com/user/{{video.yt_user}}" style="color:#222;font-size:.8em;float:right;" target="_blank">
