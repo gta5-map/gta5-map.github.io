@@ -1296,6 +1296,7 @@
   {
     "id":75,
     "type":"Wall breaches",
+    "timestamp":"2014-06-30T20:04:53+00:00",
     "title":"Bridge in La Mesa",
     "notes":"Go to location indicated and walk to the eastern-most strut on the northern side of the bridge. Walk where indicated and face west as shown. Walk up to the indicated wall and press Box to climb in.",
     "order":50,
@@ -1328,6 +1329,7 @@
   {
     "id":76,
     "type":"Wall breaches",
+    "timestamp":"2014-06-30T20:07:24+00:00",
     "title":"Airport LSC Wall-breach",
     "notes":"Go to the location as noted and stand behind the LSC. Park a car between the two shutter-doors that are directly right of the small crane. Climb onto the car you parked, face the wall and press Box to breach the wall.",
     "order":51,
