@@ -5,9 +5,9 @@ This interactive map shows you the location of current working GTA V glitches in
 
 ## Screenshots
 
-![screenshot-1](http://cl.ly/image/2B172E1Y2V34/+)
+![screenshot-1](http://cl.ly/image/1j29420t0a10/+)
 
-![screenshot-2](http://cl.ly/image/2N2x2x2r0F0r/+)
+![screenshot-2](http://cl.ly/image/0R0V051E1y1j/+)
 
 ## Usage
 
