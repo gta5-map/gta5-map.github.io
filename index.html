@@ -64,53 +64,55 @@
 
 	<script type="x/template" id="markerPopupTemplate2">
 		<div id="info-window" style="max-width:420px;">
-			<span class="header">
-				<h3>{{title}}</h3>
-			</span>
-			<div id="info-body">
-				{{#if notes}}
-					<br>
-					<p>{{notes}}</p>
-				{{/if}}
-				{{#if video}}
-					<div class="video-{{id}}">
+			<div class="scrollable">
+				<span class="header">
+					<h3>{{title}}</h3>
+				</span>
+				<div id="info-body">
+					{{#if notes}}
 						<br>
-						<h4>Video</h4>
-						<div class="youtubewrapper">
-							<iframe width="100%" src="//www.youtube.com/embed/{{video.yt_id}}?theme=light&amp;autoplay=1&amp;autohide=1&amp;modestbranding=1&amp;iv_load_policy=3&amp;rel=0&amp;showinfo=0&amp;loop=1{{#if video.start}}&amp;start={{timestampToSeconds video.start}}{{/if}}{{#if video.end}}&amp;end={{timestampToSeconds video.end}}{{/if}}" frameborder="0" allowfullscreen></iframe>
+						<p>{{notes}}</p>
+					{{/if}}
+					{{#if video}}
+						<div class="video-{{id}}">
+							<br>
+							<h4>Video</h4>
+							<div class="youtubewrapper">
+								<iframe width="100%" src="//www.youtube.com/embed/{{video.yt_id}}?theme=light&amp;autoplay=1&amp;autohide=1&amp;modestbranding=1&amp;iv_load_policy=3&amp;rel=0&amp;showinfo=0&amp;loop=1{{#if video.start}}&amp;start={{timestampToSeconds video.start}}{{/if}}{{#if video.end}}&amp;end={{timestampToSeconds video.end}}{{/if}}" frameborder="0" allowfullscreen></iframe>
+							</div>
+							{{#if video.yt_user}}
+								<p>
+									<a href="//www.youtube.com/user/{{video.yt_user}}" style="color:#222;font-size:.8em;float:right;" target="_blank">
+										Video by {{video.yt_user}}
+									</a>
+								</p>
+							{{/if}}
 						</div>
-						{{#if video.yt_user}}
-							<p>
-								<a href="//www.youtube.com/user/{{video.yt_user}}" style="color:#222;font-size:.8em;float:right;" target="_blank">
-									Video by {{video.yt_user}}
-								</a>
-							</p>
-						{{/if}}
-					</div>
-				{{/if}}
-				{{#if images}}
-					<br>
-		     		<h4>Images</h4>
-				{{/if}}
-				{{#each images}}
-					<div class="image-{{id}}">
-				     	<span>{{headline}}</span>
-				     	<img src="{{url}}" class="image-{{id}}">
-				     	<p>
-							<a href="{{contact}}" style="color:#222;font-size:.8em;float:right;" target="_blank">
-								Image by {{author}}
-							</a>              
-				     	</p>
-				    </div>
-				    <br>
-		     	{{/each}}
-				{{#each credit}}
-					<p style="overflow:hidden;clear:both;text-align:right;">
-						<a href="{{#if where}}{{where}}{{else}}#{{/if}}" target="_blank" style="color:#222;font-size:.8em;">
-							{{what}} by {{who}}
-						</a>
-					</p>
-				{{/each}}
+					{{/if}}
+					{{#if images}}
+						<br>
+			     		<h4>Images</h4>
+					{{/if}}
+					{{#each images}}
+						<div class="image-{{id}}">
+					     	<span>{{headline}}</span>
+					     	<img src="{{url}}" class="image-{{id}}">
+					     	<p>
+								<a href="{{contact}}" style="color:#222;font-size:.8em;float:right;" target="_blank">
+									Image by {{author}}
+								</a>              
+					     	</p>
+					    </div>
+					    <br>
+			     	{{/each}}
+					{{#each credit}}
+						<p style="overflow:hidden;clear:both;text-align:right;">
+							<a href="{{#if where}}{{where}}{{else}}#{{/if}}" target="_blank" style="color:#222;font-size:.8em;">
+								{{what}} by {{who}}
+							</a>
+						</p>
+					{{/each}}
+				</div>
 			</div>
 		</div>
 	</script>

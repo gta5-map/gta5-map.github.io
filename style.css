@@ -197,10 +197,10 @@ body { height: 100%; margin: 0; padding: 0 }
 #map { height: 100% }
 
 /* 
- * Mobile devices (iOS)
+ * Mobile devices
  */
 
-@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (max-device-width: 480px) { 
+@media only screen and (max-device-width: 568px) { 
 	.right {
 		display: none;
 	}
@@ -238,4 +238,19 @@ body { height: 100%; margin: 0; padding: 0 }
 
 #info-body img {
 	width: 100%;
+}
+
+/**
+ * info window
+ */
+
+.scrollable {
+	height: 400px;
+	overflow: scroll;
+}
+
+@media only screen and (max-device-width: 568px) { 
+	.scrollable {
+		height: 250px;
+	}
 }

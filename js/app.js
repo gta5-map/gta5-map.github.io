@@ -419,12 +419,17 @@ $(function() {
 			// else {
 
 				var infoWindow = new google.maps.InfoWindow({
-					content: this.popupTemplate(location.toJSON())
+					content: this.popupTemplate(location.toJSON()),
 				});
+
+			    infoWindow.setOptions({
+			        maxHeight: 400
+			    });
 
 				if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
 				    infoWindow.setOptions({
-				        maxWidth: 180
+				        maxWidth: 180,
+			        	maxHeight: 300
 				    });
 				}
 
