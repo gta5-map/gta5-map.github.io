@@ -1139,5 +1139,205 @@
       "start":"2:53",
       "end":"4:10"
     }
+  },
+  {
+    "id":71,
+    "type":"Wall breaches",
+    "timestamp":"2014-06-30T19:53:43+00:00",
+    "title":"House in West Vinewood",
+    "notes":"Go to location indicated and enter the yard through the entrance shown in the images. Take a right and follow the building until it meets a white wall near a tree. Climb this wall and go West (left) to reach the back of the house. Run up to the starting position, where the grass meets the dirt such that you are facing South towards the small part of the house. Run down towards and then against the wall shown while spamming X/A. You will then slide into the house. Don't forget a parachute for more fun!",
+    "order":46,
+    "lat":71.085,
+    "lng":-125.343,
+    "images":[
+      {
+        "id":"1",
+        "headline":"Entrance to the front yard of the house.",
+        "url":"http://i.imgur.com/JCGyC9h.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"2",
+        "headline":"Eastern side of the house showing way to back of house.",
+        "url":"http://i.imgur.com/7AFpGjJ.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"3",
+        "headline":"Looking towards back of house/position to stand in.",
+        "url":"http://i.imgur.com/kUdyjCx.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"4",
+        "headline":"View from starting position to wall-breach.",
+        "url":"http://i.imgur.com/Xm4uCqe.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      }
+    ]
+  },
+  {
+    "id":72,
+    "type":"Wall breaches",
+    "timestamp":"2014-06-30T19:57:19+00:00",
+    "title":"Road Near Airport LSC",
+    "notes":"Go to location indicated and find the group of trees shown as a guide. Locate the second support beam, that is jutting from the road, to the left of the group of trees and stand to the right of this beam. Run or jump such that you character falls into the small space to the right of the support beam. If done correctly your character will breach the wall after erecting him/herself.",
+    "order":47,
+    "lat":62.684,
+    "lng":-133.748,
+    "credit":[
+      {
+        "what":"Glitch found",
+        "who":"/u/Tsilent_Tsunami",
+        "where":"http://www.reddit.com/user/Tsilent_Tsunami"
+      }
+    ],
+    "images":[
+      {
+        "id":"1",
+        "headline":"Driving Northeast away from the airport LSC, showing the group of trees to use as a guide.",
+        "url":"http://i.imgur.com/aoLXFSL.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"2",
+        "headline":"Looking towards the guide-trees, arrow indicating where to stand.",
+        "url":"http://i.imgur.com/PZTot5L.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"3",
+        "headline":"Standing on rocks, facing the breach.",
+        "url":"http://i.imgur.com/OsnrODu.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"4",
+        "headline":"Inside the breach.",
+        "url":"http://i.imgur.com/SjEGgBE.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      }
+    ]
+  },
+  {
+    "id":73,
+    "type":"Wall breaches",
+    "timestamp":"2014-06-30T19:59:32+00:00",
+    "title":"Parking Garage Under Tennis Courts in La Puerta",
+    "notes":"Go to location indicated and locate the bushes to the right of the fenced-off entrance of the parking garage. Stand between the two bushes shown and press Box to climb in.",
+    "order":48,
+    "lat":64.919,
+    "lng":-133.473,
+    "images":[
+      {
+        "id":"1",
+        "headline":"View of the back of the parking garage.",
+        "url":"http://i.imgur.com/oMDPhwx.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"2",
+        "headline":"Bushes with arrow showing location to stand in, and face the wall.",
+        "url":"http://i.imgur.com/nRDArIs.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"3",
+        "headline":"Inside the breach.",
+        "url":"http://i.imgur.com/za7iWhh.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      }
+    ]
+  },
+  {
+    "id":74,
+    "type":"Wall breaches",
+    "timestamp":"2014-06-30T20:02:02+00:00",
+    "title":"Parking Garage in Rockford Hills",
+    "notes":"Go to the location as seen on the interactive map--a parking garage across from the east-side Ammunation--enter the second level of the parking garage and walk to the red-brick structure as seen in the pictures. Walk to, and face, the western wall of this structure. Simply walk through the rightmost side of this wall to breach.",
+    "order":49,
+    "lat":68.265,
+    "lng":-136.373,
+    "images":[
+      {
+        "id":"1",
+        "headline":"Level 2 looking towards the red-brick structure.",
+        "url":"http://i.imgur.com/rPLiKhS.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"2",
+        "headline":"Facing the western wall of the structure.",
+        "url":"http://i.imgur.com/jLskpcA.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"3",
+        "headline":"Inside the breach.",
+        "url":"http://i.imgur.com/lETeRjt.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      }
+    ]
+  },
+  {
+    "id":75,
+    "type":"Wall breaches",
+    "title":"Bridge in La Mesa",
+    "notes":"Go to location indicated and walk to the eastern-most strut on the northern side of the bridge. Walk where indicated and face west as shown. Walk up to the indicated wall and press Box to climb in.",
+    "order":50,
+    "lat":66.005,
+    "lng":-118.356,
+    "images":[
+      {
+        "id":"1",
+        "headline":"Facing the bridge support with the breach.",
+        "url":"http://i.imgur.com/D2GOrZM.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"2",
+        "headline":"Looking at the wall with the breach.",
+        "url":"http://i.imgur.com/7VYKRPi.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      },
+      {
+        "id":"3",
+        "headline":"Inside the breach.",
+        "url":"http://i.imgur.com/KF47Bks.jpg",
+        "author":"/u/dewar420",
+        "contact":"http://www.reddit.com/user/dewar420/"
+      }
+    ]
+  },
+  {
+    "id":76,
+    "type":"Wall breaches",
+    "title":"Airport LSC Wall-breach",
+    "notes":"Go to the location as noted and stand behind the LSC. Park a car between the two shutter-doors that are directly right of the small crane. Climb onto the car you parked, face the wall and press Box to breach the wall.",
+    "order":51,
+    "lat":61.507,
+    "lng":-135.813,
+    "video":{
+      "yt_id":"GhostRecon233232",
+      "yt_user":"TwistedVargas",
+      "start":"0:00",
+      "end":"1:53"
+    }
   }
 ]
