@@ -1,5 +1,10 @@
 $(function() {
 
+	var host = "gta5-map.github.io";
+	if ((host == window.location.host) && (window.location.protocol != "https:")) {
+	    window.location.protocol = "https";
+	}
+
 	var showCoordinations = true;
 
 	var $types = $('.types');
