@@ -1,10 +1,4 @@
 $(function() {
-
-	var host = "gta5-map.github.io";
-	if ((host == window.location.host) && (window.location.protocol != "https:")) {
-	    window.location.protocol = "https";
-	}
-
 	var showCoordinations = true;
 
 	var $types = $('.types');
@@ -50,7 +44,7 @@ $(function() {
 	var currentMarker;
 	
 	var assetsUrl = function() {
-		return window.location.hostname == 'localhost' ? '' : 'http://gta5-map.github.io/';
+		return window.location.hostname == 'localhost' ? '' : 'https://gta5-map.github.io/';
 	};
 
 	Handlebars.registerHelper('assetsUrl', assetsUrl);
