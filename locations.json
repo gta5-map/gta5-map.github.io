@@ -1357,5 +1357,28 @@
       "start":"2:30",
       "end":"5:10"
     }
+  },
+  {
+    "id":78,
+    "type":"Glitches",
+    "timestamp":"2014-07-06T19:17:08+00:00",
+    "title":"Walk on water/air",
+    "notes":"Head over to the helipad near Los Santos Customs. Walk over to the wall near the water and lean on it. Walk to your left until the gun is under the water. Aim the gun at the wall and it will switch to the knife (then you know the glitch worked). Head back to the ramp. Now turn around and walk back to the water. And now you'll be walking on water.",
+    "order":2,
+    "lat":64.063,
+    "lng":-132.286,
+    "video":{
+      "yt_id":"Ziwfl3L0WQo",
+      "yt_user":"Official Digital HDx Productions",
+      "start":"0:05",
+      "end":"1:20"
+    },
+    "credit":[
+      {
+        "what":"Glitch found",
+        "who":"/u/SolarGlitch",
+        "where":"http://www.reddit.com/r/gtaglitches/comments/29t5q9/walk_on_water_and_air_115/"
+      }
+    ]
   }
 ]
