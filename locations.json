@@ -1341,5 +1341,21 @@
       "start":"0:00",
       "end":"1:53"
     }
+  },
+  {
+    "id":77,
+    "type":"Glitches",
+    "timestamp":"2014-07-06T18:57:35+00:00",
+    "title":"Rollercoaster seat glitch",
+    "notes":"Go to Rollercoaster. Choose a seat on the Rollercoaster. Someone can choose the same seat as you and will sit \"inside\" of you. (More people can also sit in the same exact seat)",
+    "order":1,
+    "lat":65.568,
+    "lng":-140.625,
+    "video":{
+      "yt_id":"ttvvrF4_wIY",
+      "yt_user":"speedyw03",
+      "start":"2:30",
+      "end":"5:10"
+    }
   }
 ]
