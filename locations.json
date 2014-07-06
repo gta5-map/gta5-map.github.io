@@ -1380,5 +1380,37 @@
         "where":"http://www.reddit.com/r/gtaglitches/comments/29t5q9/walk_on_water_and_air_115/"
       }
     ]
+  },
+  {
+    "id":79,
+    "type":"Glitches",
+    "timestamp":"2014-07-06T19:26:35+00:00",
+    "title":"Gat/swing set glitch",
+    "notes":"Go to the location as noted. Let your friend lean against the wall like you saw in the video. Now drive slowly into the gate.",
+    "order":3,
+    "lat":72.663,
+    "lng":-125.947,
+    "video":{
+      "yt_id":"NXT2c5LNEis",
+      "yt_user":"Olli43",
+      "start":"0:30",
+      "end":"1:50"
+    }
+  },
+  {
+    "id":80,
+    "type":"Glitches",
+    "timestamp":"2014-07-06T19:26:35+00:00",
+    "title":"Gat/swing set glitch #2",
+    "notes":"Go to the location as noted. Let your friend lean against the wall like you saw in the video. Now drive slowly into the gate.",
+    "order":4,
+    "lat":71.159,
+    "lng":-135.439,
+    "video":{
+      "yt_id":"WcPUPI7dolE",
+      "yt_user":"Munchsz",
+      "start":"0:02",
+      "end":"0:10"
+    }
   }
 ]
