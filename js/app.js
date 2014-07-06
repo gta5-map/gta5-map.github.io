@@ -135,6 +135,12 @@ $(function() {
 
 	var categories = window.cats = new CategoriesCollection([
 		{
+			name: 'Glitches',
+			icon: 'General/glitches.png',
+			type: 'General',
+			enabled: true
+		},
+		{
 			name: 'Wall breaches',
 			icon: 'General/wall-breach.png',
 			type: 'General',
