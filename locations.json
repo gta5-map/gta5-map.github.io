@@ -1412,5 +1412,28 @@
       "start":"0:02",
       "end":"0:10"
     }
+  },
+  {
+    "id":81,
+    "type":"Wall breaches",
+    "timestamp":"2014-07-06T13:26:35+00:00",
+    "title":"Gentry Manor",
+    "notes":"Get a helicopter and fly up around the area of Eclipse Towers, When you see a Team Deathmatch that's where you need to be. If you're looking at the front on the right hand side on the roof, You'll see a smokestack and a corner by a terrace. Fly as high as you need to parachute, or land a bit and jump out if you're able. Run to the corner if you're not there already and walk into it or you'll fall through the building.",
+    "order":52,
+    "lat":70.830,
+    "lng":-125.376,
+    "video":{
+      "yt_id":"qou4Umj5nFU",
+      "yt_user":"Bob Smith",
+      "start":"0:12",
+      "end":"2:45"
+    },
+    "credit":[
+      {
+        "what":"Glitch found",
+        "who":"/u/ThebeastlyGod",
+        "where":"http://www.reddit.com/r/gtaglitches/comments/2a0lrq/gentry_manor_wallbreach/"
+      }
+    ]
   }
 ]
