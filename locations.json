@@ -1435,5 +1435,33 @@
         "where":"http://www.reddit.com/r/gtaglitches/comments/2a0lrq/gentry_manor_wallbreach/"
       }
     ]
+  },
+  {
+    "id":82,
+    "type":"Wall breaches",
+    "timestamp":"2014-07-06T13:26:35+00:00",
+    "title":"Military base tower (easy)",
+    "notes":"Call Lester for blind eye. Walk up to the right side of the wall by the green door. Keep jumping/ punching the air.",
+    "order":53,
+    "lat":77.700,
+    "lng":-140.702,
+    "video":{
+      "yt_id":"89fy4pOYHtk",
+      "yt_user":"TechnoDucky",
+      "start":"0:55",
+      "end":"1:30"
+    },
+    "credit":[
+      {
+        "what":"Glitch found",
+        "who":"/u/dewar420",
+        "where":"http://www.reddit.com/user/dewar420"
+      },
+      {
+        "what":"Tutorial written",
+        "who":"/u/TechnoDucky",
+        "where":"http://www.reddit.com/user/TechnoDucky"
+      }
+    ]
   }
 ]
