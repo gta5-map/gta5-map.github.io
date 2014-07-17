@@ -1463,5 +1463,33 @@
         "where":"http://www.reddit.com/user/TechnoDucky"
       }
     ]
+  },
+  {
+    "id":83,
+    "type":"Wall breaches",
+    "timestamp":"2014-07-17T17:48:06+00:00",
+    "title":"Martins mansion (with bike)",
+    "notes":"Reach the patio of the house just NW of Martin's house on a motorbike (you can use the slanted rock to the right of Martin's driveway as a ramp). Once on the patio of Martin's neighbor, position yourself so you are facing Martin's house (give yourself room to pick up speed). Begin driving towards Martin's roof while tilting backwards on the bike. If done correctly, you will hit the short wall and hop into the air, giving yourself enough airtime to reach Martin's roof. Drive slowly off the back of Martin's roof so that you land on his patio overlooking the city. Facing away from Martin's house, turn right and go as far as you can around the patio. You will reach a corner with those gray utility meters. Drive slowly through the corner to the right of the utility meters. You should go straight through the wall.",
+    "order":54,
+    "lat":71.819,
+    "lng":-134.681,
+    "video":{
+      "yt_id":"Di46A7bgW-Q",
+      "yt_user":"DeviantAmaZed",
+      "start":"0:12",
+      "end":"1:10"
+    },
+    "credit":[
+      {
+        "what":"Glitch found",
+        "who":"Avxry",
+        "where":"http://www.se7ensins.com/members/avxry.493411/"
+      },
+      {
+        "what":"Tutorial written",
+        "who":"/u/RustyTank",
+        "where":"http://www.reddit.com/user/RustyTank"
+      }
+    ]
   }
 ]
