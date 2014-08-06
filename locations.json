@@ -1491,5 +1491,33 @@
         "where":"http://www.reddit.com/user/RustyTank"
       }
     ]
+  },
+  {
+    "id":84,
+    "type":"Glitches",
+    "timestamp":"2014-07-06T19:26:35+00:00",
+    "title":"Gate/swing set glitch #2",
+    "notes":"Go to the location on the beach with lots of blue fences. Run anyone of them over. Stand in the center of the fence. Shoot at the top to go forward.",
+    "order":5,
+    "lat":67.114,
+    "lng":-141.328,
+    "video":{
+      "yt_id":"WcPUPI7dolE",
+      "yt_user":"CoreyM1469",
+      "start":"0:03",
+      "end":"0:40"
+    },
+    "credit":[
+      {
+        "what":"Glitch found",
+        "who":"CoreyM1469",
+        "where":"http://www.reddit.com/user/CoreyM1469"
+      },
+      {
+        "what":"Tutorial written",
+        "who":"/u/RustyTank",
+        "where":"http://www.reddit.com/r/gtaglitches/comments/2crrn8/gta_skateboardsurfboard_glitch/"
+      }
+    ]
   }
 ]
